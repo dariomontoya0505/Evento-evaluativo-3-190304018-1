@@ -1,0 +1,53 @@
+﻿tabla,columna,rol,descripcion
+fact_anuncios,id_anuncio,Clave,Identificador del anuncio (id original de Inside Airbnb)
+fact_anuncios,id_host,Clave foránea,Relaciona con dim_anfitrion
+fact_anuncios,id_localidad,Clave foránea,Relaciona con dim_localidad
+fact_anuncios,id_tipo_alojamiento,Clave foránea,Relaciona con dim_tipo_alojamiento
+fact_anuncios,categoria_propiedad,Dimensión,"Agrupación de property_type: Apartamento, Casa, Loft, Hotel u hostal, Otro"
+fact_anuncios,tipo_propiedad,Atributo,property_type original (en inglés)
+fact_anuncios,latitud / longitud,Atributo,Coordenadas del anuncio (para mapas)
+fact_anuncios,capacidad,Métrica,accommodates: número de huéspedes
+fact_anuncios,habitaciones / camas,Métrica,"bedrooms y beds (nulos: camas 1,2 %)"
+fact_anuncios,banos,Métrica,"Número de baños extraído de bathrooms_text (medio baño = 0,5)"
+fact_anuncios,banos_compartidos,Atributo,Verdadero si el texto indica 'shared'; nulo si no se informa bathrooms_text
+fact_anuncios,n_amenidades,Métrica,Cantidad de amenidades listadas
+fact_anuncios,noches_minimas,Métrica,minimum_nights
+fact_anuncios,segmento_estadia,Dimensión,"1-2, 3-6, 7-29 o 30+ noches mínimas"
+fact_anuncios,disponibilidad_365,Métrica,Días disponibles en los próximos 365. No permite distinguir reservas de bloqueos del anfitrión
+fact_anuncios,tiene_licencia,Atributo,Verdadero si license contiene texto no vacío. No acredita vigencia ni cumplimiento legal
+fact_anuncios,precio_texto_original,Atributo,"price tal como viene en el archivo (texto), conservado para auditoría"
+fact_anuncios,precio_cop,Métrica,"price convertido a número, en COP. Cotización puntual, no histórico"
+fact_anuncios,precio_log,Métrica,Logaritmo natural de precio_cop (usado en el criterio de atípicos)
+fact_anuncios,precio_por_huesped,Métrica,"precio_cop / capacidad, solo cuando ambos son positivos; en otro caso queda nulo"
+fact_anuncios,segmento_precio,Dimensión,"Cuartiles del precio sobre anuncios incluidos: Económico, Medio-bajo, Medio-alto, Premium"
+fact_anuncios,outlier_precio,Atributo,"Verdadero si el precio queda fuera de 1,5 x RIQ sobre log(precio)"
+fact_anuncios,incluido_analisis,Atributo,"Verdadero si el precio es positivo, finito y no atípico. Filtro de la muestra común de precios; los conteos totales de oferta no lo requieren"
+fact_anuncios,resenas_total / resenas_12m / resenas_30d,Métrica,"Reseñas acumuladas, de los últimos 12 meses y de los últimos 30 días"
+fact_anuncios,resenas_por_mes,Métrica,reviews_per_month: se reemplaza un nulo por 0 únicamente si number_of_reviews = 0
+fact_anuncios,tiene_resenas / sin_actividad_12m,Atributo,Indicadores: alguna reseña histórica / cero reseñas en 12 meses
+fact_anuncios,calificacion,Métrica,review_scores_rating (1-5). Nulo si no hay reseñas; NO se imputa
+fact_anuncios,categoria_calificacion,Dimensión,"Sin calificación, <4.5, 4.5-4.79, 4.8-4.89, 4.9+"
+fact_anuncios,calif_limpieza / calif_ubicacion / calif_valor,Métrica,Subcalificaciones
+fact_anuncios,primera_resena / ultima_resena,Atributo,Fechas de reseña
+fact_anuncios,dias_desde_ultima_resena,Métrica,fecha_captura - ultima_resena
+fact_anuncios,ocupacion_estimada_dias,Métrica,Estimación de Inside Airbnb derivada de reseñas. Máximo observado en esta captura: 255 días
+fact_anuncios,ocupacion_estimada_pct,Métrica,ocupacion_estimada_dias / 365
+fact_anuncios,ingreso_estimado_cop,Métrica,Estimación de Inside Airbnb en COP. No es ingreso real
+fact_anuncios,fecha_captura,Atributo,last_scraped (2026-09-16)
+dim_localidad,"id_localidad, localidad",Dimensión,20 localidades de Bogotá con nombres corregidos (tildes)
+dim_localidad,latitud_centro / longitud_centro,Atributo,Promedio de coordenadas de sus anuncios
+dim_localidad,"n_anuncios, n_anuncios_analisis, muestra_suficiente",Atributo,"Conteo total, conteo con precio incluido y marca de n_anuncios_analisis >= 30 para H1"
+dim_tipo_alojamiento,"id_tipo_alojamiento, tipo_alojamiento",Dimensión,"Vivienda completa, Habitación privada, Habitación compartida, Habitación de hotel"
+dim_anfitrion,id_host,Clave,Identificador del anfitrión
+dim_anfitrion,superhost / identidad_verificada,Dimensión,Sí / No
+dim_anfitrion,anios_como_anfitrion,Métrica,"hosts_time_as_host_years (sustituye a host_since, que está vacío)"
+dim_anfitrion,n_anuncios,Métrica,calculated_host_listings_count
+dim_anfitrion,n_viviendas_completas / n_habitaciones_privadas,Métrica,Anuncios del anfitrión por tipo
+dim_anfitrion,tipo_anfitrion,Dimensión,"Individual (1), Pequeño (2-4), Profesional (5+)"
+anfitriones_resumen,"id_host, grupo_h5",Clave / Dimensión,Un registro por anfitrión con al menos un anuncio incluido; grupo: 1 anuncio o 2 o más
+anfitriones_resumen,"precio_mediano, ocupacion_media_dias, resenas_12m_media, calificacion_mediana",Métrica,Indicadores por anfitrión usados en H5 (una observación por anfitrión)
+anfitriones_resumen,"n_anuncios, n_anuncios_analizados",Métrica,Anuncios reportados por el dataset y anuncios incluidos en el análisis
+muestra_h1_localidad,todas,Muestra,Anuncios incluidos en localidades con n >= 30 (base de H1)
+muestra_h2_tipo_alojamiento,todas,Muestra,Anuncios incluidos en tipos de alojamiento con n >= 30 (base de H2)
+anuncios_excluidos,motivo_exclusion,Atributo,"Precio nulo, con formato no válido, no positivo o atípico"
+calidad_variables,todas,Control,"Tipo, nulos, % de nulos y valores distintos de las 90 columnas originales"

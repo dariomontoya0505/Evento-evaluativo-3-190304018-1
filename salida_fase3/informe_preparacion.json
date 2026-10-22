@@ -1,0 +1,26 @@
+{
+  "archivo_fuente": "listings_bogota.csv",
+  "sha256_fuente": "d16aa32ada0d2856ca5195b48a91f7a14e79a182070ba6c37c0a6b47530b3ba1",
+  "fechas_captura": [
+    "2026-09-16"
+  ],
+  "registros_originales": 19505,
+  "columnas_originales": 90,
+  "columnas_vacias": 14,
+  "columnas_conservadas": 35,
+  "anfitriones_distintos": 8497,
+  "precio_nulo": 711,
+  "precio_formato_invalido": 0,
+  "precio_no_positivo": 0,
+  "precio_atipico": 796,
+  "limite_inferior_cop": 36351.6,
+  "limite_superior_cop": 693267.87,
+  "anuncios_analisis": 17998,
+  "muestra_h1": 17945,
+  "muestra_h2": 17971,
+  "anfitriones_resumen": 7795,
+  "anfitriones_1_anuncio": 5417,
+  "anfitriones_2_o_mas": 2378,
+  "calificaciones_nulas_total": 4089,
+  "calificaciones_nulas_analisis": 3449
+}

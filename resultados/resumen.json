@@ -1,0 +1,21 @@
+{
+  "anuncios_originales": 19505,
+  "anuncios_analizados": 17998,
+  "anfitriones_analizados": 7795,
+  "calificaciones_validas": 14549,
+  "calificaciones_faltantes": 3449,
+  "anuncios_activos_12m": 12091,
+  "hosts_varios": 2378,
+  "fecha_captura": "2026-09-16",
+  "semilla_sensibilidad": 20261018,
+  "sha256_entrada": "ebbfa623a429c6baf4dd11fafbaab12d38d2ae8c2b723638225b44e7c9c040bf",
+  "levene_log_precio": {
+    "W": 14.761960059532896,
+    "p": 1.657539918276452e-38
+  },
+  "control_filtro_chapinero": {
+    "n": 4675,
+    "precio_mediano": 190531.0,
+    "calificacion_promedio": 4.692919909615868
+  }
+}

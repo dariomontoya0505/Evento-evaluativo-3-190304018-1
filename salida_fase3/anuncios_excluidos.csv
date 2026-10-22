@@ -1,0 +1,1508 @@
+﻿id_anuncio,id_host,precio_texto_original,precio_cop,motivo_exclusion
+4016217,5837688,,,Precio nulo
+4060974,21063968,,,Precio nulo
+4378207,22732085,,,Precio nulo
+4403897,23091830,,,Precio nulo
+4644530,3608638,,,Precio nulo
+5219701,27005840,,,Precio nulo
+5262346,27240963,"$24,956.55",24956.55,"Precio atípico (1,5 x RIQ sobre log del precio)"
+5771365,29941283,,,Precio nulo
+6018881,9554295,,,Precio nulo
+6276985,31765029,"$35,637.21",35637.21,"Precio atípico (1,5 x RIQ sobre log del precio)"
+6277182,31765029,"$36,300.07",36300.07,"Precio atípico (1,5 x RIQ sobre log del precio)"
+6284148,32614780,"$1,119,252.11",1119252.11,"Precio atípico (1,5 x RIQ sobre log del precio)"
+6389162,32614780,"$1,119,252.11",1119252.11,"Precio atípico (1,5 x RIQ sobre log del precio)"
+6389275,32614780,"$1,104,127.09",1104127.09,"Precio atípico (1,5 x RIQ sobre log del precio)"
+6601648,33856962,,,Precio nulo
+6691941,35026356,"$786,501.49",786501.49,"Precio atípico (1,5 x RIQ sobre log del precio)"
+6727679,2044360,,,Precio nulo
+6964971,29288364,,,Precio nulo
+6973538,31684011,,,Precio nulo
+6989320,36643440,,,Precio nulo
+7341621,14293036,,,Precio nulo
+7350303,10189168,"$36,300.07",36300.07,"Precio atípico (1,5 x RIQ sobre log del precio)"
+7470998,16649307,"$886,794.00",886794.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+7725831,7682724,"$35,087.49",35087.49,"Precio atípico (1,5 x RIQ sobre log del precio)"
+7987270,33287660,"$30,250.06",30250.06,"Precio atípico (1,5 x RIQ sobre log del precio)"
+8115939,4291660,,,Precio nulo
+8301874,43771911,,,Precio nulo
+8501749,44767838,"$35,896.31",35896.31,"Precio atípico (1,5 x RIQ sobre log del precio)"
+8769980,43031440,"$27,728.70",27728.7,"Precio atípico (1,5 x RIQ sobre log del precio)"
+8841051,46300539,"$31,036.75",31036.75,"Precio atípico (1,5 x RIQ sobre log del precio)"
+8845623,43641956,,,Precio nulo
+8904472,34388364,"$920,925.67",920925.67,"Precio atípico (1,5 x RIQ sobre log del precio)"
+8941088,46737989,,,Precio nulo
+9096301,8831957,,,Precio nulo
+9238750,16303541,,,Precio nulo
+9255242,23185058,,,Precio nulo
+9474952,21341295,,,Precio nulo
+9612731,49735050,,,Precio nulo
+9791874,50465412,,,Precio nulo
+9810248,50520073,"$31,460.27",31460.27,"Precio atípico (1,5 x RIQ sobre log del precio)"
+9823308,50073338,,,Precio nulo
+9859607,50746325,,,Precio nulo
+9860592,50746325,"$1,392,314.33",1392314.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+9860701,50746325,"$1,498,455.00",1498455.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+9860896,50746325,"$2,072,862.67",2072862.67,"Precio atípico (1,5 x RIQ sobre log del precio)"
+9860959,50746325,"$1,498,455.00",1498455.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+9861066,50746325,"$1,382,949.00",1382949.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+9861126,50746325,,,Precio nulo
+9861182,50746325,,,Precio nulo
+9861217,50746325,"$1,498,455.00",1498455.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+10520269,54055024,,,Precio nulo
+10575661,51131483,"$34,485.27",34485.27,"Precio atípico (1,5 x RIQ sobre log del precio)"
+10695304,50746325,"$2,303,874.33",2303874.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+10823924,50746325,"$2,303,874.33",2303874.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+10908821,53060319,,,Precio nulo
+10953256,56807295,"$23,595.46",23595.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+11064286,55498431,,,Precio nulo
+11225949,58500829,,,Precio nulo
+11235682,58578143,"$35,501.93",35501.93,"Precio atípico (1,5 x RIQ sobre log del precio)"
+11320638,59210412,,,Precio nulo
+11521846,31688226,"$26,166.77",26166.77,"Precio atípico (1,5 x RIQ sobre log del precio)"
+11589358,59919843,"$33,275.06",33275.06,"Precio atípico (1,5 x RIQ sobre log del precio)"
+12252858,30739277,,,Precio nulo
+12286552,55537367,,,Precio nulo
+12398868,67041739,"$31,008.00",31008.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+12400853,4830903,,,Precio nulo
+12493349,11223677,,,Precio nulo
+12760382,34388364,"$839,759.33",839759.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+12869273,27163570,,,Precio nulo
+13236772,74337886,,,Precio nulo
+13454240,76870421,,,Precio nulo
+13528738,73757575,,,Precio nulo
+13596757,46784736,"$4,484,900.00",4484900.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+13624702,5716916,,,Precio nulo
+13778255,49504919,,,Precio nulo
+14014495,31405640,"$30,250.06",30250.06,"Precio atípico (1,5 x RIQ sobre log del precio)"
+14140402,85358965,"$30,552.87",30552.87,"Precio atípico (1,5 x RIQ sobre log del precio)"
+14165295,85696665,"$27,874.90",27874.9,"Precio atípico (1,5 x RIQ sobre log del precio)"
+14181934,85918368,"$31,258.39",31258.39,"Precio atípico (1,5 x RIQ sobre log del precio)"
+14375515,87598241,,,Precio nulo
+14489131,89410980,"$22,713.31",22713.31,"Precio atípico (1,5 x RIQ sobre log del precio)"
+14568732,90245185,"$1,629,570.00",1629570.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+14622047,90763705,"$32,671.45",32671.45,"Precio atípico (1,5 x RIQ sobre log del precio)"
+14835929,36015548,"$29,157.21",29157.21,"Precio atípico (1,5 x RIQ sobre log del precio)"
+14868589,56710978,,,Precio nulo
+15047737,95093092,,,Precio nulo
+15353956,96726671,,,Precio nulo
+15437303,83077226,,,Precio nulo
+15581024,99954308,,,Precio nulo
+15692747,66813721,,,Precio nulo
+15871527,35099115,"$5,445,513.93",5445513.93,"Precio atípico (1,5 x RIQ sobre log del precio)"
+16389620,33240945,,,Precio nulo
+16487563,108261686,"$26,476.96",26476.96,"Precio atípico (1,5 x RIQ sobre log del precio)"
+16528141,98123810,,,Precio nulo
+16528795,98123810,,,Precio nulo
+16606270,23356792,,,Precio nulo
+16708747,103048246,,,Precio nulo
+16844959,67735735,"$22,936.88",22936.88,"Precio atípico (1,5 x RIQ sobre log del precio)"
+16976381,74920140,,,Precio nulo
+17022075,48632438,"$904,040.00",904040.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+17124229,115082962,"$36,138.77",36138.77,"Precio atípico (1,5 x RIQ sobre log del precio)"
+17297928,116695891,"$29,070.00",29070.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+17363151,113723715,,,Precio nulo
+17511046,117537564,,,Precio nulo
+17702116,3057061,"$27,588.22",27588.22,"Precio atípico (1,5 x RIQ sobre log del precio)"
+17850018,78430892,,,Precio nulo
+17928350,122103491,"$30,250.06",30250.06,"Precio atípico (1,5 x RIQ sobre log del precio)"
+18000664,10112122,"$33,573.91",33573.91,"Precio atípico (1,5 x RIQ sobre log del precio)"
+18485721,124687297,"$33,598.32",33598.32,"Precio atípico (1,5 x RIQ sobre log del precio)"
+19056302,133023687,"$35,834.92",35834.92,"Precio atípico (1,5 x RIQ sobre log del precio)"
+19102317,2490446,"$849,351.67",849351.67,"Precio atípico (1,5 x RIQ sobre log del precio)"
+19141273,133786524,"$36,300.07",36300.07,"Precio atípico (1,5 x RIQ sobre log del precio)"
+19156731,133786524,,,Precio nulo
+19161424,133987147,"$872,099.03",872099.03,"Precio atípico (1,5 x RIQ sobre log del precio)"
+19437839,89108037,"$34,058.74",34058.74,"Precio atípico (1,5 x RIQ sobre log del precio)"
+19504702,136967133,,,Precio nulo
+19729761,139090544,,,Precio nulo
+19786295,139697877,,,Precio nulo
+19788803,5052218,,,Precio nulo
+19838956,90245185,"$1,458,496.05",1458496.05,"Precio atípico (1,5 x RIQ sobre log del precio)"
+19861992,140427377,,,Precio nulo
+19945548,49379815,"$750,819.00",750819.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+20011294,90245185,"$816,657.89",816657.89,"Precio atípico (1,5 x RIQ sobre log del precio)"
+20018927,113300712,,,Precio nulo
+20192539,143777829,"$24,906.17",24906.17,"Precio atípico (1,5 x RIQ sobre log del precio)"
+20268919,132986550,,,Precio nulo
+20361402,145233452,,,Precio nulo
+20451544,96453179,,,Precio nulo
+20459042,140756795,"$33,915.00",33915.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+20540108,4048412,"$36,300.07",36300.07,"Precio atípico (1,5 x RIQ sobre log del precio)"
+20666904,147845242,"$24,225.00",24225.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+20991019,22339973,,,Precio nulo
+21012050,15104914,,,Precio nulo
+21112614,31264512,,,Precio nulo
+21362094,107357220,"$31,091.82",31091.82,"Precio atípico (1,5 x RIQ sobre log del precio)"
+21471270,155921369,,,Precio nulo
+21476203,155970369,"$34,447.95",34447.95,"Precio atípico (1,5 x RIQ sobre log del precio)"
+21518358,6882035,"$1,004,888.50",1004888.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+21737512,144011077,,,Precio nulo
+21786362,147281159,"$757,259.76",757259.76,"Precio atípico (1,5 x RIQ sobre log del precio)"
+21798125,82408984,,,Precio nulo
+21810922,99656899,,,Precio nulo
+21817950,146698390,"$35,207.00",35207.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+21962381,22339973,"$1,061,406.00",1061406.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+21962996,22339973,"$2,873,756.00",2873756.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+22040774,160905281,"$36,166.96",36166.96,"Precio atípico (1,5 x RIQ sobre log del precio)"
+22082420,128007551,,,Precio nulo
+22193554,69439141,,,Precio nulo
+22223678,48182566,"$28,553.20",28553.2,"Precio atípico (1,5 x RIQ sobre log del precio)"
+22274707,162780611,"$35,239.30",35239.3,"Precio atípico (1,5 x RIQ sobre log del precio)"
+22294668,162951127,"$20,097.06",20097.06,"Precio atípico (1,5 x RIQ sobre log del precio)"
+22451531,164509228,"$32,106.20",32106.2,"Precio atípico (1,5 x RIQ sobre log del precio)"
+22534188,165497837,"$34,884.00",34884.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+22705155,10797839,"$32,703.75",32703.75,"Precio atípico (1,5 x RIQ sobre log del precio)"
+22717541,38172029,"$1,210,505.93",1210505.93,"Precio atípico (1,5 x RIQ sobre log del precio)"
+22865468,162533561,"$780,000.00",780000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+23076821,114955894,,,Precio nulo
+23343641,124319176,,,Precio nulo
+23348223,173948768,"$34,999.32",34999.32,"Precio atípico (1,5 x RIQ sobre log del precio)"
+23448467,174915212,"$25,751.18",25751.18,"Precio atípico (1,5 x RIQ sobre log del precio)"
+23461612,175066207,"$30,039.00",30039.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+23464123,173424004,"$30,179.18",30179.18,"Precio atípico (1,5 x RIQ sobre log del precio)"
+23595743,176429722,"$1,221,927.50",1221927.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+23670340,177246428,"$33,349.75",33349.75,"Precio atípico (1,5 x RIQ sobre log del precio)"
+23679334,131061318,,,Precio nulo
+23685365,176429722,"$1,553,367.00",1553367.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+23787878,104717061,,,Precio nulo
+24099372,181487724,,,Precio nulo
+24121098,626838,"$979,615.00",979615.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+24303520,183336687,"$30,854.64",30854.64,"Precio atípico (1,5 x RIQ sobre log del precio)"
+24326377,183535322,"$29,302.56",29302.56,"Precio atípico (1,5 x RIQ sobre log del precio)"
+24428055,184462913,"$29,070.00",29070.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+24471296,184833591,"$30,696.95",30696.95,"Precio atípico (1,5 x RIQ sobre log del precio)"
+24571041,32413258,,,Precio nulo
+24621149,62138992,"$28,235.05",28235.05,"Precio atípico (1,5 x RIQ sobre log del precio)"
+24655463,12667264,,,Precio nulo
+24656048,186335064,,,Precio nulo
+24719120,186849133,"$15,896.45",15896.45,"Precio atípico (1,5 x RIQ sobre log del precio)"
+24776589,30359705,,,Precio nulo
+24782164,187374434,"$34,089.42",34089.42,"Precio atípico (1,5 x RIQ sobre log del precio)"
+24792718,187386643,"$15,402.26",15402.26,"Precio atípico (1,5 x RIQ sobre log del precio)"
+25030419,189220881,,,Precio nulo
+25069393,79735974,,,Precio nulo
+25075249,189337418,"$24,773.41",24773.41,"Precio atípico (1,5 x RIQ sobre log del precio)"
+25079591,3290627,"$936,534.33",936534.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+25110600,23185058,,,Precio nulo
+25293377,191049633,"$26,247.97",26247.97,"Precio atípico (1,5 x RIQ sobre log del precio)"
+25326265,191283638,,,Precio nulo
+25354672,190350179,"$36,111.40",36111.4,"Precio atípico (1,5 x RIQ sobre log del precio)"
+25402654,191762189,"$34,250.27",34250.27,"Precio atípico (1,5 x RIQ sobre log del precio)"
+25451532,191283638,,,Precio nulo
+25505217,192468778,,,Precio nulo
+25724248,107829673,,,Precio nulo
+25908240,169788210,,,Precio nulo
+26109921,193082033,"$34,884.00",34884.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+26110054,196261260,"$35,707.65",35707.65,"Precio atípico (1,5 x RIQ sobre log del precio)"
+26166839,130949132,,,Precio nulo
+26178639,43048718,,,Precio nulo
+26201429,194310200,"$34,830.71",34830.71,"Precio atípico (1,5 x RIQ sobre log del precio)"
+26257750,132079034,"$34,884.00",34884.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+26270299,191283638,,,Precio nulo
+26353647,198183291,"$32,403.36",32403.36,"Precio atípico (1,5 x RIQ sobre log del precio)"
+26396301,23592201,,,Precio nulo
+26475543,193082033,"$30,039.00",30039.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+26556457,199691636,,,Precio nulo
+26557378,199698714,"$34,291.50",34291.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+26570023,176182428,"$34,528.70",34528.7,"Precio atípico (1,5 x RIQ sobre log del precio)"
+26743487,3290627,"$936,534.50",936534.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+26945623,18084376,,,Precio nulo
+27162582,203833500,,,Precio nulo
+27284595,205465242,"$32,300.00",32300.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+27360490,138989068,,,Precio nulo
+27492764,207031410,"$27,929.81",27929.81,"Precio atípico (1,5 x RIQ sobre log del precio)"
+27779139,182966335,"$33,882.70",33882.7,"Precio atípico (1,5 x RIQ sobre log del precio)"
+27806818,129624527,"$35,496.60",35496.6,"Precio atípico (1,5 x RIQ sobre log del precio)"
+27908245,210825249,"$35,707.65",35707.65,"Precio atípico (1,5 x RIQ sobre log del precio)"
+27964092,161697178,,,Precio nulo
+27989579,211397053,,,Precio nulo
+28010022,85333754,,,Precio nulo
+28079290,16613989,"$25,276.04",25276.04,"Precio atípico (1,5 x RIQ sobre log del precio)"
+28585950,215750367,"$30,753.71",30753.71,"Precio atípico (1,5 x RIQ sobre log del precio)"
+28669798,210762126,,,Precio nulo
+28708848,216552395,,,Precio nulo
+28764685,216975242,"$34,545.63",34545.63,"Precio atípico (1,5 x RIQ sobre log del precio)"
+28862007,131768319,,,Precio nulo
+28889825,65418629,,,Precio nulo
+28923080,206139473,"$30,753.71",30753.71,"Precio atípico (1,5 x RIQ sobre log del precio)"
+28979709,217202696,"$30,140.64",30140.64,"Precio atípico (1,5 x RIQ sobre log del precio)"
+28988692,33449755,"$757,965.29",757965.29,"Precio atípico (1,5 x RIQ sobre log del precio)"
+29034057,57265976,"$23,808.33",23808.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+29037123,152624972,"$701,314.33",701314.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+29076618,3290627,"$919,364.50",919364.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+29103435,9950300,,,Precio nulo
+29190411,170669424,"$22,267.62",22267.62,"Precio atípico (1,5 x RIQ sobre log del precio)"
+29233378,5006617,"$716,666.67",716666.67,"Precio atípico (1,5 x RIQ sobre log del precio)"
+29237840,44617434,"$160,000,000.00",160000000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+29733992,78521578,,,Precio nulo
+29797825,224181800,"$33,727.66",33727.66,"Precio atípico (1,5 x RIQ sobre log del precio)"
+29986834,225435501,,,Precio nulo
+30004033,225486791,"$25,436.25",25436.25,"Precio atípico (1,5 x RIQ sobre log del precio)"
+30179795,181865942,,,Precio nulo
+30295149,227537906,"$32,429.20",32429.2,"Precio atípico (1,5 x RIQ sobre log del precio)"
+30398579,111926401,,,Precio nulo
+30424576,59624845,,,Precio nulo
+30742165,230068898,"$30,501.89",30501.89,"Precio atípico (1,5 x RIQ sobre log del precio)"
+30767277,230217290,"$35,873.37",35873.37,"Precio atípico (1,5 x RIQ sobre log del precio)"
+31318122,234428057,"$27,364.56",27364.56,"Precio atípico (1,5 x RIQ sobre log del precio)"
+31374443,219565240,"$26,899.44",26899.44,"Precio atípico (1,5 x RIQ sobre log del precio)"
+31389834,174630012,"$763,262.13",763262.13,"Precio atípico (1,5 x RIQ sobre log del precio)"
+31441755,169091012,"$30,523.50",30523.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+31510917,236105596,"$35,582.03",35582.03,"Precio atípico (1,5 x RIQ sobre log del precio)"
+31565679,2801285,,,Precio nulo
+31601258,124471083,,,Precio nulo
+31616556,202394073,"$34,238.00",34238.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+31619161,237040138,"$16,160.01",16160.01,"Precio atípico (1,5 x RIQ sobre log del precio)"
+31692918,237671170,"$30,788.04",30788.04,"Precio atípico (1,5 x RIQ sobre log del precio)"
+31749091,136818881,,,Precio nulo
+31906998,239098811,"$776,440.32",776440.32,"Precio atípico (1,5 x RIQ sobre log del precio)"
+32120797,237590018,"$969,212.03",969212.03,"Precio atípico (1,5 x RIQ sobre log del precio)"
+32136267,1673679,,,Precio nulo
+32137180,1673679,,,Precio nulo
+32191506,241552601,"$30,070.01",30070.01,"Precio atípico (1,5 x RIQ sobre log del precio)"
+32286300,3290627,"$936,534.50",936534.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+32315725,242602857,,,Precio nulo
+32337555,229869292,"$33,508.02",33508.02,"Precio atípico (1,5 x RIQ sobre log del precio)"
+32459543,34438039,,,Precio nulo
+32493094,208282500,"$35,000.28",35000.28,"Precio atípico (1,5 x RIQ sobre log del precio)"
+32687484,245111599,"$35,465.40",35465.4,"Precio atípico (1,5 x RIQ sobre log del precio)"
+32698759,79735974,,,Precio nulo
+32717797,2801285,"$32,062.54",32062.54,"Precio atípico (1,5 x RIQ sobre log del precio)"
+32839936,247048886,,,Precio nulo
+32934580,140100822,,,Precio nulo
+32941120,149307580,"$784,890.00",784890.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+32955456,85765070,"$25,788.32",25788.32,"Precio atípico (1,5 x RIQ sobre log del precio)"
+32955779,248005568,"$34,464.10",34464.1,"Precio atípico (1,5 x RIQ sobre log del precio)"
+32966262,236319301,,,Precio nulo
+33155354,58852907,"$35,357.39",35357.39,"Precio atípico (1,5 x RIQ sobre log del precio)"
+33208582,61416137,,,Precio nulo
+33251033,250374530,,,Precio nulo
+33367755,244140760,,,Precio nulo
+33393348,74210438,,,Precio nulo
+33507093,152520296,,,Precio nulo
+33528543,117353810,,,Precio nulo
+33554668,735962,"$1,329,879.00",1329879.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+33581359,253039169,"$25,986.64",25986.64,"Precio atípico (1,5 x RIQ sobre log del precio)"
+33636801,5837688,,,Precio nulo
+33689745,116148223,,,Precio nulo
+33972868,86517793,,,Precio nulo
+34056124,184274426,"$26,672.10",26672.1,"Precio atípico (1,5 x RIQ sobre log del precio)"
+34387784,259599153,,,Precio nulo
+34393699,259642376,,,Precio nulo
+34494599,212324522,"$33,075.20",33075.2,"Precio atípico (1,5 x RIQ sobre log del precio)"
+34505161,90703291,"$1,157,400.28",1157400.28,"Precio atípico (1,5 x RIQ sobre log del precio)"
+34567314,99656899,,,Precio nulo
+34672818,257335023,"$29,645.47",29645.47,"Precio atípico (1,5 x RIQ sobre log del precio)"
+34715944,261054425,"$25,006.66",25006.66,"Precio atípico (1,5 x RIQ sobre log del precio)"
+34775681,262226895,,,Precio nulo
+34783547,226481762,"$20,469.52",20469.52,"Precio atípico (1,5 x RIQ sobre log del precio)"
+34833617,735962,"$914,682.00",914682.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+34934702,119359280,,,Precio nulo
+35035198,94811639,"$33,982.83",33982.83,"Precio atípico (1,5 x RIQ sobre log del precio)"
+35088689,247011900,"$30,903.78",30903.78,"Precio atípico (1,5 x RIQ sobre log del precio)"
+35118164,264512162,"$32,978.30",32978.3,"Precio atípico (1,5 x RIQ sobre log del precio)"
+35128464,264453460,"$20,203.65",20203.65,"Precio atípico (1,5 x RIQ sobre log del precio)"
+35202243,264710412,,,Precio nulo
+35249369,104877579,"$32,623.00",32623.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+35284342,161042239,,,Precio nulo
+35322061,265954630,"$33,656.60",33656.6,"Precio atípico (1,5 x RIQ sobre log del precio)"
+35428299,221513171,"$29,070.00",29070.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+35461898,266800024,,,Precio nulo
+35463760,9070921,"$800,000.00",800000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+35566608,153159968,"$19,922.64",19922.64,"Precio atípico (1,5 x RIQ sobre log del precio)"
+35577277,172059346,"$1,112,915.00",1112915.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+35609753,143790524,"$23,312.42",23312.42,"Precio atípico (1,5 x RIQ sobre log del precio)"
+35616165,266083765,"$28,992.48",28992.48,"Precio atípico (1,5 x RIQ sobre log del precio)"
+35809514,186254153,"$29,793.52",29793.52,"Precio atípico (1,5 x RIQ sobre log del precio)"
+35860936,172638042,"$29,070.00",29070.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+35910219,23129952,"$29,496.36",29496.36,"Precio atípico (1,5 x RIQ sobre log del precio)"
+35914419,259779123,"$34,727.02",34727.02,"Precio atípico (1,5 x RIQ sobre log del precio)"
+35925892,213233415,"$25,687.03",25687.03,"Precio atípico (1,5 x RIQ sobre log del precio)"
+36028166,239919981,,,Precio nulo
+36037919,271118549,"$35,452.48",35452.48,"Precio atípico (1,5 x RIQ sobre log del precio)"
+36170090,146698390,"$33,707.96",33707.96,"Precio atípico (1,5 x RIQ sobre log del precio)"
+36172067,146698390,"$25,670.41",25670.41,"Precio atípico (1,5 x RIQ sobre log del precio)"
+36238516,246642003,"$35,722.00",35722.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+36280692,265895622,,,Precio nulo
+36532132,201199644,"$28,882.66",28882.66,"Precio atípico (1,5 x RIQ sobre log del precio)"
+36666917,275389211,"$19,117.52",19117.52,"Precio atípico (1,5 x RIQ sobre log del precio)"
+36836357,143995795,"$766,505.16",766505.16,"Precio atípico (1,5 x RIQ sobre log del precio)"
+36865585,23146268,,,Precio nulo
+37053345,99656899,,,Precio nulo
+37082004,3290627,"$936,534.50",936534.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+37126787,257890260,"$27,225.05",27225.05,"Precio atípico (1,5 x RIQ sobre log del precio)"
+37155272,279511072,"$29,506.05",29506.05,"Precio atípico (1,5 x RIQ sobre log del precio)"
+37180081,279537867,"$30,568.72",30568.72,"Precio atípico (1,5 x RIQ sobre log del precio)"
+37188414,267482828,"$24,580.30",24580.3,"Precio atípico (1,5 x RIQ sobre log del precio)"
+37203626,264574020,"$32,972.25",32972.25,"Precio atípico (1,5 x RIQ sobre log del precio)"
+37221097,280246186,"$1,385,497.20",1385497.2,"Precio atípico (1,5 x RIQ sobre log del precio)"
+37246910,225141765,,,Precio nulo
+37603471,134314682,"$33,034.18",33034.18,"Precio atípico (1,5 x RIQ sobre log del precio)"
+37837017,158960961,"$35,014.93",35014.93,"Precio atípico (1,5 x RIQ sobre log del precio)"
+37884772,286977903,,,Precio nulo
+37941916,106372387,,,Precio nulo
+37978517,276690472,,,Precio nulo
+38375242,1981704,"$1,175,000.00",1175000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+38378883,1981704,"$1,555,000.00",1555000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+38463150,242032140,"$18,794.63",18794.63,"Precio atípico (1,5 x RIQ sobre log del precio)"
+38549217,11420084,"$23,763.11",23763.11,"Precio atípico (1,5 x RIQ sobre log del precio)"
+38584421,57441530,,,Precio nulo
+38627054,210825249,"$29,720.39",29720.39,"Precio atípico (1,5 x RIQ sobre log del precio)"
+38645200,5052218,,,Precio nulo
+38668692,247340376,,,Precio nulo
+38695889,295834205,"$28,827.75",28827.75,"Precio atípico (1,5 x RIQ sobre log del precio)"
+38775963,191049633,,,Precio nulo
+38777916,193861272,,,Precio nulo
+38843618,169383902,"$23,243.74",23243.74,"Precio atípico (1,5 x RIQ sobre log del precio)"
+38853762,220942700,"$25,932.38",25932.38,"Precio atípico (1,5 x RIQ sobre log del precio)"
+38872156,3290627,"$952,143.33",952143.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+38876049,210825249,"$34,359.77",34359.77,"Precio atípico (1,5 x RIQ sobre log del precio)"
+38908802,248116104,"$1,120,058.57",1120058.57,"Precio atípico (1,5 x RIQ sobre log del precio)"
+39032689,210825249,"$34,810.03",34810.03,"Precio atípico (1,5 x RIQ sobre log del precio)"
+39087142,174756353,,,Precio nulo
+39210166,250373774,"$31,446.18",31446.18,"Precio atípico (1,5 x RIQ sobre log del precio)"
+39231927,17997303,,,Precio nulo
+39251658,99656899,,,Precio nulo
+39337172,146952579,"$33,275.06",33275.06,"Precio atípico (1,5 x RIQ sobre log del precio)"
+39367171,302387434,"$20,488.33",20488.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+39443310,302965346,,,Precio nulo
+39507746,303518013,"$32,216.26",32216.26,"Precio atípico (1,5 x RIQ sobre log del precio)"
+39507817,94716232,"$28,604.88",28604.88,"Precio atípico (1,5 x RIQ sobre log del precio)"
+39538349,302387434,,,Precio nulo
+39555340,109370907,,,Precio nulo
+39624965,146153958,"$724,253.50",724253.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+39625797,146153958,"$764,836.50",764836.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+39630343,303496948,,,Precio nulo
+39653279,281423413,"$24,225.00",24225.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+39866565,166442237,"$33,032.60",33032.6,"Precio atípico (1,5 x RIQ sobre log del precio)"
+39867936,276666455,,,Precio nulo
+39885121,307146850,"$27,905.60",27905.6,"Precio atípico (1,5 x RIQ sobre log del precio)"
+39888631,210825249,"$34,615.91",34615.91,"Precio atípico (1,5 x RIQ sobre log del precio)"
+39964207,308108674,,,Precio nulo
+39993178,227869050,,,Precio nulo
+40067126,227869050,"$28,737.04",28737.04,"Precio atípico (1,5 x RIQ sobre log del precio)"
+40077720,299680943,"$715,000.00",715000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+40081899,309035333,"$34,916.30",34916.3,"Precio atípico (1,5 x RIQ sobre log del precio)"
+40113295,231795911,"$31,862.98",31862.98,"Precio atípico (1,5 x RIQ sobre log del precio)"
+40116755,163202894,"$25,484.70",25484.7,"Precio atípico (1,5 x RIQ sobre log del precio)"
+40161353,94831676,,,Precio nulo
+40243557,307737858,,,Precio nulo
+40262817,310995425,,,Precio nulo
+40350360,61963914,"$28,343.25",28343.25,"Precio atípico (1,5 x RIQ sobre log del precio)"
+40406518,39171010,"$873,000.00",873000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+40417980,5927154,,,Precio nulo
+40487000,313388936,,,Precio nulo
+40524814,313760229,"$1,826,242.00",1826242.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+40561379,148691076,"$29,493.13",29493.13,"Precio atípico (1,5 x RIQ sobre log del precio)"
+40618536,314520685,,,Precio nulo
+40773516,316759520,"$28,541.40",28541.4,"Precio atípico (1,5 x RIQ sobre log del precio)"
+40868188,214899071,,,Precio nulo
+40892998,112958327,,,Precio nulo
+41208089,172712129,"$24,225.00",24225.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+41289162,324244737,,,Precio nulo
+41318196,167559198,"$22,925.32",22925.32,"Precio atípico (1,5 x RIQ sobre log del precio)"
+41319140,324648062,"$17,330.05",17330.05,"Precio atípico (1,5 x RIQ sobre log del precio)"
+41320599,324665402,"$26,163.00",26163.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+41364981,34388364,,,Precio nulo
+41369411,73379442,,,Precio nulo
+41400427,325619097,"$34,977.67",34977.67,"Precio atípico (1,5 x RIQ sobre log del precio)"
+41594920,327904271,,,Precio nulo
+41814237,330397514,"$25,334.13",25334.13,"Precio atípico (1,5 x RIQ sobre log del precio)"
+41822153,330517944,"$30,542.88",30542.88,"Precio atípico (1,5 x RIQ sobre log del precio)"
+41832329,168465438,"$1,512,502.86",1512502.86,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42025681,333064076,"$30,316.78",30316.78,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42240629,225871859,"$34,662.77",34662.77,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42298598,331032362,"$28,863.93",28863.93,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42347973,159445772,,,Precio nulo
+42375737,735962,"$1,283,052.00",1283052.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42376569,735962,"$1,329,879.00",1329879.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42398038,337403501,"$36,337.50",36337.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42415745,25937455,"$34,050.66",34050.66,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42420433,130968798,"$30,653.81",30653.81,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42433143,337771769,"$34,066.81",34066.81,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42472047,338179548,"$30,244.43",30244.43,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42516147,232591193,"$35,949.90",35949.9,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42532290,639139,,,Precio nulo
+42539236,235548704,"$32,911.90",32911.9,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42542968,216618635,"$31,008.00",31008.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42602589,161128123,,,Precio nulo
+42665593,273434108,"$33,107.20",33107.2,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42695829,123428727,"$31,928.55",31928.55,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42709540,25411490,"$3,286,103.81",3286103.81,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42737985,340370519,,,Precio nulo
+42760327,231795911,,,Precio nulo
+42814331,339866022,,,Precio nulo
+42818158,340238528,"$28,317.41",28317.41,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42861983,82497558,"$19,026.32",19026.32,"Precio atípico (1,5 x RIQ sobre log del precio)"
+42872283,341283592,"$1,036,467.68",1036467.68,"Precio atípico (1,5 x RIQ sobre log del precio)"
+43133952,252659862,,,Precio nulo
+43299552,235091486,"$34,653.94",34653.94,"Precio atípico (1,5 x RIQ sobre log del precio)"
+43323943,344494511,,,Precio nulo
+43365534,7765955,,,Precio nulo
+43457606,346449515,,,Precio nulo
+43467018,346529446,"$31,526.85",31526.85,"Precio atípico (1,5 x RIQ sobre log del precio)"
+43496290,314190663,,,Precio nulo
+43626621,103215911,"$36,337.50",36337.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+43649919,316435624,,,Precio nulo
+43870607,350994710,,,Precio nulo
+44020565,30434345,"$34,321.98",34321.98,"Precio atípico (1,5 x RIQ sobre log del precio)"
+44211993,76417036,"$30,854.65",30854.65,"Precio atípico (1,5 x RIQ sobre log del precio)"
+44279307,280641299,,,Precio nulo
+44356600,344316102,,,Precio nulo
+44393887,358236278,"$35,853.00",35853.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+44468023,226481762,"$25,712.03",25712.03,"Precio atípico (1,5 x RIQ sobre log del precio)"
+44515165,30115649,,,Precio nulo
+44637328,71797728,,,Precio nulo
+44905348,161261461,"$25,094.95",25094.95,"Precio atípico (1,5 x RIQ sobre log del precio)"
+45163445,364736460,,,Precio nulo
+45275037,334856483,,,Precio nulo
+45343945,227803443,,,Precio nulo
+45450482,276666455,,,Precio nulo
+45495857,215019472,"$35,853.00",35853.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+45526328,196713961,"$800,000.00",800000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+45545664,136308572,,,Precio nulo
+45676625,370063995,"$29,118.45",29118.45,"Precio atípico (1,5 x RIQ sobre log del precio)"
+45684081,211699153,"$34,922.76",34922.76,"Precio atípico (1,5 x RIQ sobre log del precio)"
+45703324,147281159,,,Precio nulo
+45724110,368968855,,,Precio nulo
+45747583,370792964,"$29,215.35",29215.35,"Precio atípico (1,5 x RIQ sobre log del precio)"
+45754845,331134298,,,Precio nulo
+46053586,169079118,"$3,190,271.00",3190271.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+46098474,373551129,"$22,765.69",22765.69,"Precio atípico (1,5 x RIQ sobre log del precio)"
+46332573,244091361,,,Precio nulo
+46373952,375303865,,,Precio nulo
+46425625,72035302,,,Precio nulo
+46426173,375618597,,,Precio nulo
+46427305,270549636,"$35,126.25",35126.25,"Precio atípico (1,5 x RIQ sobre log del precio)"
+46533300,134005333,,,Precio nulo
+46644392,484666251,,,Precio nulo
+46720642,48549779,,,Precio nulo
+46789545,85911513,"$950,000.00",950000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+46836174,377700159,,,Precio nulo
+46874819,276153199,"$1,460,254.50",1460254.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+46941089,232430875,,,Precio nulo
+46991434,271655526,"$777,708.50",777708.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+47109093,157421295,,,Precio nulo
+47336470,382198938,"$776,569.52",776569.52,"Precio atípico (1,5 x RIQ sobre log del precio)"
+47348252,278923566,,,Precio nulo
+47370852,382425767,,,Precio nulo
+47402745,49748297,"$31,926.45",31926.45,"Precio atípico (1,5 x RIQ sobre log del precio)"
+47408873,380804346,"$32,559.13",32559.13,"Precio atípico (1,5 x RIQ sobre log del precio)"
+47445315,4587692,,,Precio nulo
+47489382,278203431,,,Precio nulo
+47526520,130476186,,,Precio nulo
+47548673,264376508,,,Precio nulo
+47579769,347816996,"$30,229.57",30229.57,"Precio atípico (1,5 x RIQ sobre log del precio)"
+47702727,54675572,,,Precio nulo
+47751334,176538160,,,Precio nulo
+47871967,380903669,"$1,280,200.00",1280200.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+47978815,278203431,,,Precio nulo
+48014647,278203431,,,Precio nulo
+48125034,253050957,,,Precio nulo
+48267358,387582302,,,Precio nulo
+48276195,158350348,"$30,854.65",30854.65,"Precio atípico (1,5 x RIQ sobre log del precio)"
+48333556,161564970,,,Precio nulo
+48390409,390631575,,,Precio nulo
+48396981,278203431,,,Precio nulo
+48510271,239062969,,,Precio nulo
+48525758,391568822,,,Precio nulo
+48621780,392232388,"$31,410.86",31410.86,"Precio atípico (1,5 x RIQ sobre log del precio)"
+48870438,13737714,"$981,500.00",981500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+48884944,371154748,,,Precio nulo
+48918841,394573165,,,Precio nulo
+48919409,394299609,"$32,765.44",32765.44,"Precio atípico (1,5 x RIQ sobre log del precio)"
+48923580,77353330,"$33,136.20",33136.2,"Precio atípico (1,5 x RIQ sobre log del precio)"
+48937930,283371244,"$29,210.18",29210.18,"Precio atípico (1,5 x RIQ sobre log del precio)"
+49637491,372319434,,,Precio nulo
+49854111,131898467,,,Precio nulo
+49920447,244802504,,,Precio nulo
+49925998,214793153,"$33,839.10",33839.1,"Precio atípico (1,5 x RIQ sobre log del precio)"
+50047490,131898467,"$35,000.00",35000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+50075669,15140710,"$2,677,359.00",2677359.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+50090707,13796439,"$150,025,000.00",150025000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+50127314,258855961,"$26,461.61",26461.61,"Precio atípico (1,5 x RIQ sobre log del precio)"
+50157319,1121127,,,Precio nulo
+50157862,103492830,,,Precio nulo
+50177989,404970388,,,Precio nulo
+50305529,271314753,,,Precio nulo
+50360958,129174341,,,Precio nulo
+50441874,16148871,,,Precio nulo
+50894777,50746325,"$1,554,647.00",1554647.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+50998118,9070921,"$700,000.00",700000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+51130299,59761485,,,Precio nulo
+51205134,169688505,,,Precio nulo
+51225302,255650332,,,Precio nulo
+51304572,276938011,,,Precio nulo
+51580940,491207382,,,Precio nulo
+51594195,417963741,,,Precio nulo
+51648696,418104789,"$30,955.58",30955.58,"Precio atípico (1,5 x RIQ sobre log del precio)"
+51711557,292824,"$1,484,281.00",1484281.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+51713209,274335304,"$35,439.19",35439.19,"Precio atípico (1,5 x RIQ sobre log del precio)"
+51722576,419020842,"$2,551,150.00",2551150.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+51728405,183952488,"$715,000.00",715000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+51827074,107656849,,,Precio nulo
+51846033,62963857,,,Precio nulo
+51847395,416091719,,,Precio nulo
+51965890,169688505,,,Precio nulo
+51988633,652937897,,,Precio nulo
+52306976,157269490,,,Precio nulo
+52547702,278203431,,,Precio nulo
+52563276,105811357,,,Precio nulo
+52655807,426233346,"$870,000.00",870000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+52657058,404995048,"$20,025.18",20025.18,"Precio atípico (1,5 x RIQ sobre log del precio)"
+52672752,6716166,"$31,977.00",31977.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+52691514,64208297,"$26,102.50",26102.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+52705460,145866462,"$19,767.60",19767.6,"Precio atípico (1,5 x RIQ sobre log del precio)"
+52751582,427057741,,,Precio nulo
+52755380,128923216,"$33,909.82",33909.82,"Precio atípico (1,5 x RIQ sobre log del precio)"
+52758997,427122690,,,Precio nulo
+52781286,298336178,,,Precio nulo
+52874865,428087808,,,Precio nulo
+52946094,113734,,,Precio nulo
+53075859,193861272,,,Precio nulo
+53181451,281440168,"$876,000.00",876000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+53181489,415571500,,,Precio nulo
+53415472,301589758,"$29,731.70",29731.7,"Precio atípico (1,5 x RIQ sobre log del precio)"
+53430617,430245976,"$258,514,678.00",258514678.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+53491249,375877582,"$1,453,500.00",1453500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+53547567,435095992,,,Precio nulo
+53556601,432658197,,,Precio nulo
+53573655,375759493,,,Precio nulo
+53721462,354861347,,,Precio nulo
+53798191,65473152,,,Precio nulo
+53851841,188545936,"$767,333.75",767333.75,"Precio atípico (1,5 x RIQ sobre log del precio)"
+54015487,136569750,,,Precio nulo
+54095917,408546798,,,Precio nulo
+54324548,107060508,"$4,050,251.50",4050251.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+54358194,441091032,,,Precio nulo
+539248434712036995,440360854,,,Precio nulo
+543644605558977480,65829678,,,Precio nulo
+543961920769570724,102490736,,,Precio nulo
+546484945723241941,441812405,"$1,576,499.50",1576499.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+546523556235939340,372319434,,,Precio nulo
+547932748654323557,159313291,,,Precio nulo
+548341439994207388,303314129,,,Precio nulo
+553793503894418953,346663422,,,Precio nulo
+556425840251031662,114368334,,,Precio nulo
+559990466864644935,444600957,,,Precio nulo
+561417980086485981,15977462,,,Precio nulo
+562264857909348566,445039377,,,Precio nulo
+565261600977934451,276153199,"$2,471,197.00",2471197.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+568672546441888649,446483090,,,Precio nulo
+568844993254715064,160092422,"$1,456,155.00",1456155.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+570329049706647742,18931908,,,Precio nulo
+572490796459928452,276153199,"$2,601,260.00",2601260.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+572496711947457648,276153199,"$2,500,000.00",2500000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+573814533552540569,268861348,"$2,907,000.00",2907000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+573887356914223043,428688136,,,Precio nulo
+575390626166319672,440451079,,,Precio nulo
+576801911832168009,397530610,,,Precio nulo
+585339566951034770,450144570,"$33,915.00",33915.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+591520439592069230,390631575,,,Precio nulo
+597260565123214666,67652184,,,Precio nulo
+601362094288092876,443804892,,,Precio nulo
+610234738146330138,31168971,,,Precio nulo
+612920074922714789,132878032,,,Precio nulo
+613090021662398929,119944132,,,Precio nulo
+626872916018102698,134005333,,,Precio nulo
+628891151581724362,458760353,,,Precio nulo
+629641646643256907,459426579,"$783,385.00",783385.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+629677082580482594,459426579,"$2,375,000.00",2375000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+629810216448509992,459426579,"$783,385.00",783385.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+631299113942621396,459426579,"$2,484,438.00",2484438.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+634570656445148889,189412457,,,Precio nulo
+634819462954848323,459426579,"$2,945,000.00",2945000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+635357758060450024,278203431,,,Precio nulo
+635509588419786540,459426579,"$3,374,915.00",3374915.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+636296850769759658,459426579,"$2,945,000.00",2945000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+638971412982094019,461855301,"$32,567.56",32567.56,"Precio atípico (1,5 x RIQ sobre log del precio)"
+641363462235123161,459426579,"$2,290,118.00",2290118.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+641375133496362799,276153199,"$2,471,197.00",2471197.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+645617314115288084,619048,"$1,330,191.50",1330191.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+647923558917067434,392797691,,,Precio nulo
+650839053719732383,68431136,"$1,935,504.33",1935504.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+652415555898829500,51442392,,,Precio nulo
+655702253663899755,114420778,"$739,210.67",739210.67,"Precio atípico (1,5 x RIQ sobre log del precio)"
+660237955318129923,345189500,"$27,325.80",27325.8,"Precio atípico (1,5 x RIQ sobre log del precio)"
+666611462582435942,459426579,"$900,000.00",900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+669446097322722399,39428690,,,Precio nulo
+669545195843207065,469111271,,,Precio nulo
+670132100285027165,428097609,,,Precio nulo
+670353432677883353,276153199,"$803,140.00",803140.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+670930914607107679,636909,,,Precio nulo
+673879941378778457,465796208,"$731,595.00",731595.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+680670075892172278,471935912,,,Precio nulo
+682053810449896556,283443841,,,Precio nulo
+682069567984592700,462099929,"$715,304.33",715304.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+683221592033830929,105160256,,,Precio nulo
+683374939038464822,472583552,"$1,987,633.00",1987633.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+684217959334537508,471561755,,,Precio nulo
+684966665008275571,471935912,,,Precio nulo
+685681170771157738,471935912,,,Precio nulo
+686339108408206453,471935912,,,Precio nulo
+689366058089565783,237665025,,,Precio nulo
+693610838478419075,475031584,,,Precio nulo
+696986582819123179,229544419,,,Precio nulo
+700602054006243578,99656899,,,Precio nulo
+700990821720461177,34207026,"$1,850,000.00",1850000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+703538448156628554,477092905,"$2,542,500.00",2542500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+710971046921091864,73797265,"$997,676.00",997676.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+713577988820573593,43025450,"$1,130,000.00",1130000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+714345990863818509,125343606,"$10,000,000.00",10000000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+714546185761541488,270041216,,,Precio nulo
+716959035490167664,128007551,,,Precio nulo
+719441032466323948,221933851,,,Precio nulo
+720163568588116879,463394692,"$864,000.00",864000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+726891728714782730,65831814,,,Precio nulo
+728428062299571174,120092878,,,Precio nulo
+730427172721865106,338558812,,,Precio nulo
+731311761676631512,148252175,,,Precio nulo
+732751339564703218,305033294,,,Precio nulo
+735636615455567748,16148871,,,Precio nulo
+737867029648241099,401598810,"$823,650.00",823650.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+738269119895307332,3275207,"$806,460.33",806460.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+740415854310613792,305033294,,,Precio nulo
+740642382225499796,32379153,,,Precio nulo
+748307529588850122,469429749,,,Precio nulo
+751515674681164773,51196422,,,Precio nulo
+757179539821502893,417963741,,,Precio nulo
+761677661004159961,422167392,,,Precio nulo
+762575529923805000,488172103,,,Precio nulo
+766765569392838861,488900429,,,Precio nulo
+766778849351466169,417963741,,,Precio nulo
+767325610405311481,99656899,,,Precio nulo
+772490848914130555,484666251,,,Precio nulo
+775391539692228453,462664844,"$820,000.00",820000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+776322688450208866,49556011,,,Precio nulo
+777468810833926187,88153882,,,Precio nulo
+777606307761767284,85384710,,,Precio nulo
+778031690170780586,169557512,,,Precio nulo
+778954581214977799,276153199,,,Precio nulo
+778979826279836440,276153199,,,Precio nulo
+778987608317237921,276153199,,,Precio nulo
+781927656049891563,339442262,"$863,692.72",863692.72,"Precio atípico (1,5 x RIQ sobre log del precio)"
+782597587012648819,131360406,,,Precio nulo
+783507456698527645,674567,,,Precio nulo
+787402252494062059,375478981,,,Precio nulo
+791115924004675954,91093145,"$908,750.00",908750.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+797603780353243773,35330332,,,Precio nulo
+798558160270334195,47996712,"$943,298.37",943298.37,"Precio atípico (1,5 x RIQ sobre log del precio)"
+800321651768803379,495092802,,,Precio nulo
+800784342579566372,495209135,,,Precio nulo
+801351515811912787,495338686,,,Precio nulo
+810743690779647341,497261578,"$1,398,430.00",1398430.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+811793013674695598,476380303,"$1,710,000.00",1710000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+812114693150746368,344445510,"$898,618.00",898618.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+818224454499021582,417963741,,,Precio nulo
+821005145277585447,460627105,,,Precio nulo
+826896666212135553,501094751,,,Precio nulo
+827511716453774441,276666455,,,Precio nulo
+827540171463027374,198494672,"$1,000,000.00",1000000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+827560517100657387,198494672,"$1,000,000.00",1000000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+827604955559272148,209541643,,,Precio nulo
+828352449213055918,16149461,"$1,108,232.23",1108232.23,"Precio atípico (1,5 x RIQ sobre log del precio)"
+832030925157797458,49828647,"$936,534.50",936534.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+832752856641651962,35465663,,,Precio nulo
+837037131794522332,63502199,"$782,233.58",782233.58,"Precio atípico (1,5 x RIQ sobre log del precio)"
+837965461012580821,503467060,,,Precio nulo
+838266487318752460,41870330,"$729,713.00",729713.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+838504052640927744,503467060,,,Precio nulo
+840795963002583609,180579242,,,Precio nulo
+842720214053502215,182047445,,,Precio nulo
+844954818544017402,503467060,,,Precio nulo
+845986362135033824,271256946,"$820,000.00",820000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+847275116600374635,480648246,"$1,500,000.00",1500000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+848694077558629910,301522356,,,Precio nulo
+849193656076249596,996252,"$1,040,000.00",1040000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+852090287592527608,45286960,,,Precio nulo
+853403269573477154,477170233,,,Precio nulo
+854354851117947249,68080876,"$875,000.00",875000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+856421731194961922,170923651,"$717,820.00",717820.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+856753582007004493,245439328,,,Precio nulo
+858815168341346232,67127403,"$714,321.00",714321.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+859345898041001742,35940241,,,Precio nulo
+860199176293876612,506288897,"$217,800,411.23",217800411.23,"Precio atípico (1,5 x RIQ sobre log del precio)"
+862515860794299486,15899943,,,Precio nulo
+863867631925215160,255566141,"$797,966.50",797966.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+865307843101800529,434812151,,,Precio nulo
+866008991249242879,509293295,,,Precio nulo
+866903080569327709,79903567,,,Precio nulo
+867221434932707786,508685351,"$1,349,727.50",1349727.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+867495309446631183,509625211,,,Precio nulo
+868779967569507471,276153199,"$803,140.00",803140.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+872010695106019062,506288897,"$224,768,226.24",224768226.24,"Precio atípico (1,5 x RIQ sobre log del precio)"
+872477164834014402,67638490,,,Precio nulo
+872748172328295024,510704992,,,Precio nulo
+878184004351295559,90703291,"$5,676,146.94",5676146.94,"Precio atípico (1,5 x RIQ sobre log del precio)"
+878387369552832203,40625578,"$767,599.50",767599.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+879939373097691817,459426579,"$783,385.00",783385.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+882538188274981080,111745990,,,Precio nulo
+884278844499748789,511117080,"$900,000.00",900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+888663653972153489,514185256,,,Precio nulo
+891894053510982620,31114877,,,Precio nulo
+894100793803382455,258445327,,,Precio nulo
+895396476714225396,356459778,,,Precio nulo
+896624730974057093,62299590,,,Precio nulo
+900708715132467158,456019055,,,Precio nulo
+900948701874224568,77790444,,,Precio nulo
+902197709788623315,135132611,,,Precio nulo
+905349856961857044,351424386,"$1,797,236.00",1797236.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+906198204206224640,214531197,,,Precio nulo
+907386313083596489,130063104,"$731,500.00",731500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+907398404847226464,130063104,"$731,500.00",731500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+907403970624585256,130063104,"$731,500.00",731500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+907408849186876841,130063104,"$731,500.00",731500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+910244683944642819,519129336,"$755,000.00",755000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+913631316351763698,519960662,"$32,855.93",32855.93,"Precio atípico (1,5 x RIQ sobre log del precio)"
+913683057872534399,519985549,,,Precio nulo
+913937874940224360,161716034,,,Precio nulo
+914653056038758831,508905724,,,Precio nulo
+916777053106599646,148610246,,,Precio nulo
+921848348065807565,189193154,,,Precio nulo
+922654982386539018,338726315,,,Precio nulo
+923463507211356039,61332800,"$728,682.03",728682.03,"Precio atípico (1,5 x RIQ sobre log del precio)"
+923816849598528959,464646941,,,Precio nulo
+926176477765907227,506420081,,,Precio nulo
+926696074305115037,16148871,"$760,154.00",760154.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+927664162113843676,246026459,,,Precio nulo
+928380223409468037,276153199,"$803,140.00",803140.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+928878516355259649,221933851,"$945,913.50",945913.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+929059735819209829,172059346,"$1,015,671.50",1015671.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+929072106484359993,80074005,,,Precio nulo
+929576174236807946,25037533,"$718,010.00",718010.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+931201280207690837,524508033,,,Precio nulo
+939301801682304570,276153199,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+940009171288309148,276153199,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+940703369784179004,276153199,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+940777898721150973,443804892,,,Precio nulo
+942166026762190154,438630470,"$9,424,657.00",9424657.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+943515820500056201,469429749,,,Precio nulo
+943626124544212601,459426579,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+943637569833188082,276153199,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+943700523687271080,459426579,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+943752655017237363,61332800,"$796,739.33",796739.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+944508245548775303,480648246,"$1,570,944.00",1570944.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+945744363968786521,528485728,,,Precio nulo
+945997797418170886,276153199,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+946462950257277260,412536721,,,Precio nulo
+947050377667145759,528814907,,,Precio nulo
+948093164292733485,161017888,,,Precio nulo
+949291282291259673,276153199,"$2,000,000.00",2000000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+951265281398083367,478391813,,,Precio nulo
+951502800926798096,276153199,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+952294964674195578,276153199,"$2,000,000.00",2000000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+952317916687285144,276153199,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+956510600898558896,529104695,"$1,980,000.00",1980000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+957091891288145595,248166030,,,Precio nulo
+958823087673638599,529104695,"$1,980,000.00",1980000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+959535244684642236,276153199,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+959559785868997016,276153199,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+960384560890478459,532476459,"$817,500.00",817500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+962231627163082230,237283114,,,Precio nulo
+963952992262335142,529104695,"$1,980,000.00",1980000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+964626768823703872,276153199,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+964629331682379504,529104695,"$1,980,000.00",1980000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+966101411039386338,533877274,"$9,025,000.00",9025000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+966651070136391637,533877274,"$9,025,000.00",9025000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+966657278619199911,533877274,"$9,025,000.00",9025000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+966670024935239828,533877274,"$9,025,000.00",9025000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+966734079195499763,533877274,"$9,025,000.00",9025000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+966785034403323986,533877274,"$9,025,000.00",9025000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+966884694788478015,304577794,,,Precio nulo
+967284831644684203,533877274,"$9,025,000.00",9025000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+967293346475564266,533877274,"$9,025,000.00",9025000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+967476626969434129,457974949,,,Precio nulo
+967508053844634377,533877274,"$9,025,000.00",9025000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+968053936241394490,533877274,"$9,025,000.00",9025000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+968897490297192318,113241787,,,Precio nulo
+971563583143908904,41171431,,,Precio nulo
+977851874061047545,134005333,,,Precio nulo
+978953529151855004,536795114,"$1,154,753.60",1154753.6,"Precio atípico (1,5 x RIQ sobre log del precio)"
+984240028644119117,134005333,,,Precio nulo
+989254675452592463,66077553,"$1,639,800.00",1639800.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+989724851031117034,401406712,"$700,000.00",700000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+990010921638783552,278203431,,,Precio nulo
+993730806049518646,626838,"$767,295.60",767295.6,"Precio atípico (1,5 x RIQ sobre log del precio)"
+993942651700861415,211010258,,,Precio nulo
+994320470412656689,67443641,,,Precio nulo
+995511599632237075,82398300,"$3,199,732.00",3199732.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+995848140646933228,40625578,"$2,887,865.88",2887865.88,"Precio atípico (1,5 x RIQ sobre log del precio)"
+996402390581218079,67443641,,,Precio nulo
+996978668958491503,75408513,"$2,793,446.13",2793446.13,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1000682691492961155,196713961,"$1,529,560.00",1529560.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1001003539484260181,506420081,,,Precio nulo
+1001545292335030932,459426579,"$783,385.00",783385.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1003510025313621505,288654947,,,Precio nulo
+1003965806091625325,476414513,"$32,963.05",32963.05,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1004245963672163861,527677389,"$770,638.00",770638.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1005790505237516573,542568859,"$800,000.00",800000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1006627500064193189,458470168,,,Precio nulo
+1006729186124782647,276153199,"$803,140.00",803140.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1007267919908285706,276153199,"$926,701.00",926701.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1008878767679527698,453399966,"$829,750.00",829750.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1008886446297447200,276153199,"$803,140.00",803140.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1013804640753673753,276153199,"$803,140.00",803140.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1014424001290764363,147431200,,,Precio nulo
+1016626150664828089,183952488,"$715,000.00",715000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1021064580187345416,434700105,"$1,111,110.00",1111110.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1021135578421526380,316222379,,,Precio nulo
+1021227341703597758,533187153,,,Precio nulo
+1021701747094981162,536832656,"$4,119,749.00",4119749.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1022436430386844860,35623946,,,Precio nulo
+1025499910092164590,264930667,"$1,984,504.33",1984504.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1026082332883871598,545635173,,,Precio nulo
+1026184084732578620,35623946,,,Precio nulo
+1026191666232489785,546833481,,,Precio nulo
+1028375591644781304,276153199,"$1,929,560.00",1929560.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1028401485078600366,529104695,"$1,980,000.00",1980000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1028861544612678160,537261153,"$95,000,000.00",95000000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1028949731912946195,113196901,,,Precio nulo
+1029057574756379192,506420081,,,Precio nulo
+1030188458297165231,224932616,,,Precio nulo
+1030493362571538836,276153199,"$2,375,000.00",2375000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1030663475533604110,8794884,,,Precio nulo
+1031239746451185132,155961467,"$1,989,843.00",1989843.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1034938540399972217,548591383,,,Precio nulo
+1035825620321794086,8794884,,,Precio nulo
+1037680445344593263,482643733,"$700,944.00",700944.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1039187376213386034,289988849,,,Precio nulo
+1040004356249736107,516885207,"$800,000.00",800000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1040533109576777895,453981577,,,Precio nulo
+1043462848980625480,107802835,"$775,000.00",775000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1045049576921889256,90245185,"$746,106.00",746106.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1047284432643198773,533877274,"$9,020,000.00",9020000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1047839560913672429,551247577,"$36,000.00",36000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1049890480321544868,491292391,"$31,059.68",31059.68,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1049984192557609855,25138314,"$891,580.63",891580.63,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1049985848267564436,25138314,"$1,188,774.18",1188774.18,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1050115578047233776,278203431,,,Precio nulo
+1052819488006015637,551583523,"$1,133,403.77",1133403.77,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1053175585202284046,434700105,"$1,244,444.00",1244444.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1053824618858636554,434700105,"$1,244,442.00",1244442.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1053906186349554490,40625578,"$699,278.93",699278.93,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1055753575934047772,456019055,,,Precio nulo
+1057459628079439856,493321464,"$702,341.00",702341.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1057491952337085754,480364962,"$1,752,880.00",1752880.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1058596290099449710,109859209,"$2,267,460.00",2267460.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1058601466675916694,434700105,"$1,244,444.00",1244444.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1059695742024969751,51360502,,,Precio nulo
+1063224496947993498,61332800,"$754,083.00",754083.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1064723963335316906,536832656,"$1,177,359.00",1177359.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1064744106484063577,536832656,"$1,580,000.00",1580000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1064784994105236643,536832656,"$1,189,000.00",1189000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1065366612741660066,145784382,,,Precio nulo
+1065401381203414676,145784382,,,Precio nulo
+1068943204679030181,556507423,,,Precio nulo
+1070286261209769280,556875391,"$35,124.09",35124.09,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1071459570651358648,511601054,,,Precio nulo
+1071664360240617973,303067628,"$32,000.00",32000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1072078783280969994,536832656,"$1,477,990.00",1477990.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1074167202190244645,536832656,"$1,350,200.00",1350200.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1077433665589357659,25037533,"$930,291.00",930291.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1083973265645763602,472433521,"$1,623,327.00",1623327.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1084209477614779292,433672182,"$876,855.00",876855.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1086918648511123416,417963741,,,Precio nulo
+1086944627700789625,417963741,,,Precio nulo
+1090088907329377975,428410708,"$709,435.00",709435.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1090495407193834235,561845614,"$2,532,500.00",2532500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1090564781998252554,249504064,,,Precio nulo
+1090679910267511103,164422652,,,Precio nulo
+1091324475239273888,289406528,,,Precio nulo
+1092880023659982991,139175782,,,Precio nulo
+1093994252185662476,35940241,,,Precio nulo
+1095963933386238965,563154605,,,Precio nulo
+1099392690504969307,78430892,,,Precio nulo
+1099610792052146111,16148871,,,Precio nulo
+1101500662571685888,10305064,"$807,500.00",807500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1105895427648320933,24945688,,,Precio nulo
+1106702543836229922,276153199,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1107340771709998084,565913534,,,Precio nulo
+1107458195771551816,529104695,"$2,000,000.00",2000000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1108823903404666205,385923299,,,Precio nulo
+1109012062084169877,529104695,"$1,980,000.00",1980000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1109012144783688760,529104695,"$1,980,000.00",1980000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1111823876982165114,521474591,,,Precio nulo
+1112532187575357418,276153199,"$2,035,472.00",2035472.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1112553256491122348,459426579,"$1,934,438.00",1934438.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1113185904452536250,27885172,"$3,575,000.00",3575000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1113200214140893208,222594863,"$1,098,900.00",1098900.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1115413009942066144,222594863,"$1,237,500.00",1237500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1119608327118659041,20133124,,,Precio nulo
+1121656065548299126,278203431,,,Precio nulo
+1123457146662065223,16149461,"$714,888.00",714888.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1123844370780699547,125593124,,,Precio nulo
+1125540088877829789,97299627,,,Precio nulo
+1129610429899055172,475638464,"$1,891,828.00",1891828.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1130013810466021451,242166696,"$1,010,945.70",1010945.7,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1130487511062135564,134872872,,,Precio nulo
+1131116090834076381,196932941,"$738,091.00",738091.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1131524078057625960,185009026,"$1,543,500.00",1543500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1131937571003462384,276153199,"$803,140.00",803140.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1131967078590908371,276153199,"$803,140.00",803140.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1133626195648518770,533877274,"$9,055,000.00",9055000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1136312397703903307,348918761,,,Precio nulo
+1137224579714593695,501581706,"$759,686.50",759686.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1137251525361843823,69368620,"$1,170,668.00",1170668.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1137612406350936685,95286312,,,Precio nulo
+1137915417059953644,506420081,,,Precio nulo
+1142024601059580285,113196901,,,Precio nulo
+1142907942515635756,278203431,,,Precio nulo
+1143431013189657196,574366711,,,Precio nulo
+1143599953459061649,61332800,"$752,358.00",752358.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1145636996465717838,249770467,,,Precio nulo
+1147366853918847428,243022020,,,Precio nulo
+1149988260703255036,575924649,,,Precio nulo
+1151302539068525348,542324450,,,Precio nulo
+1151732429355063559,24637162,,,Precio nulo
+1152070003430623354,148228764,,,Precio nulo
+1153790526335440057,161179077,,,Precio nulo
+1156497181449918729,576362917,"$795,600.00",795600.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1166092109497389024,38006173,"$804,500.00",804500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1166120102448618888,117353810,,,Precio nulo
+1167534175636593264,1121127,,,Precio nulo
+1168395285814519364,234868155,"$31,809.04",31809.04,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1172785410823504269,303291053,,,Precio nulo
+1173193034789989663,9287707,,,Precio nulo
+1179142779830625747,150816968,,,Precio nulo
+1179234245288976203,271059788,,,Precio nulo
+1179794529507259709,78521578,,,Precio nulo
+1181815424549186610,113196901,,,Precio nulo
+1182541329286762895,278203431,,,Precio nulo
+1182924824574142793,579650756,"$804,732.69",804732.69,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1184003459313213291,564708589,"$938,888.00",938888.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1185796467696699410,86190407,,,Precio nulo
+1186916810880113822,278203431,,,Precio nulo
+1187756351136844142,1209009,"$733,618.52",733618.52,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1187770513141751704,340683072,,,Precio nulo
+1191960021423349935,113196901,,,Precio nulo
+1193786522045301849,123794258,"$752,593.00",752593.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1195860033047219763,588218272,,,Precio nulo
+1198576230675605097,589132781,,,Precio nulo
+1199453326966565586,8028369,"$1,243,046.42",1243046.42,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1201165309520056726,404231793,,,Precio nulo
+1202081921890054121,278203431,,,Precio nulo
+1202335304085065135,23185058,,,Precio nulo
+1202464811590877176,590264449,,,Precio nulo
+1202844875114802837,590374926,"$35,291.20",35291.2,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1204628130741824750,53421650,,,Precio nulo
+1205937927556787416,61332800,"$752,358.00",752358.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1207427791108576893,348918761,,,Precio nulo
+1208193390443334599,222594863,"$730,620.00",730620.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1211208266923677806,249767399,,,Precio nulo
+1211628110598567032,348918761,,,Precio nulo
+1213365075903222462,298092030,"$946,000.00",946000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1222465509196737490,96745465,,,Precio nulo
+1222766271077298627,160092422,"$1,628,321.00",1628321.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1224898597888976949,74995835,,,Precio nulo
+1229247537358065068,597199654,"$9,007,500.00",9007500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1231497606942137531,61332800,"$796,739.33",796739.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1232694279150625300,3116380,,,Precio nulo
+1237018742914317070,445697804,,,Precio nulo
+1238015465412146447,12741916,,,Precio nulo
+1239833628115393507,278203431,,,Precio nulo
+1239991854347652217,243945981,"$2,169,638.00",2169638.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1241495298393698385,650973764,"$720,000.00",720000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1242173355493638860,651150704,"$1,269,990.00",1269990.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1243514527625300630,90245185,"$935,035.81",935035.81,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1244722515997982939,182289901,"$25,232.76",25232.76,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1244985339904745485,89137785,,,Precio nulo
+1245992697065882835,49551457,"$33,711.51",33711.51,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1247104603115315224,652246335,"$760,000.00",760000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1252115056835513726,506420081,,,Precio nulo
+1252234392373888041,299680943,"$700,000.00",700000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1252237583939045063,3116380,,,Precio nulo
+1255097337088477400,598263161,,,Precio nulo
+1255348416310073935,423769977,,,Precio nulo
+1255866710867065916,402299172,,,Precio nulo
+1260048103018834137,375732183,,,Precio nulo
+1260755596287368218,225809567,"$1,400,000.00",1400000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1262628989428840441,166883898,,,Precio nulo
+1263232168981246328,448760536,,,Precio nulo
+1263795381036983823,527677389,"$1,890,000.00",1890000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1264068897965348160,67949029,,,Precio nulo
+1265517117068570261,102126445,,,Precio nulo
+1266866072069507799,42504064,"$3,177,358.00",3177358.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1268149939880806621,285169143,,,Precio nulo
+1268234762592444136,8794884,,,Precio nulo
+1277574498757287714,278203431,,,Precio nulo
+1278283665851235982,278203431,,,Precio nulo
+1278290352037198634,278203431,,,Precio nulo
+1280503207172234181,67196298,"$33,393.00",33393.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1280558702509348722,67196298,"$34,295.00",34295.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1280590501249469457,67196298,"$34,295.00",34295.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1283448627779526405,41870330,"$741,607.00",741607.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1283632834064044618,135382668,,,Precio nulo
+1283641856044375706,592397096,,,Precio nulo
+1289910115695696265,267629953,"$1,940,000.00",1940000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1289937773287907164,267629953,"$1,940,000.00",1940000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1290661510390725649,434990778,"$1,084,591.00",1084591.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1291631076837391355,662543606,"$1,657,500.00",1657500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1293689370876581792,598263161,,,Precio nulo
+1295034510781726740,585724991,,,Precio nulo
+1295843958933089415,443556523,"$888,256.00",888256.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1296390440722105325,170379824,,,Precio nulo
+1296709150400384043,537293381,,,Precio nulo
+1297876202822030706,662159147,,,Precio nulo
+1297885367839824024,518943793,"$36,000.00",36000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1298734991893032994,446350648,"$6,171,000.00",6171000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1299488515070153821,664242679,"$1,008,335.33",1008335.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1301786916398451737,40625578,"$749,225.25",749225.25,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1302268693784565358,664105275,,,Precio nulo
+1304566702276502517,240050644,"$9,002,500.00",9002500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1304666828017044388,31547608,,,Precio nulo
+1310988318140816291,12445050,,,Precio nulo
+1312952648306000336,432269830,,,Precio nulo
+1313226773397773141,446350648,"$1,542,380.00",1542380.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1313250448015973488,240050644,"$1,542,380.00",1542380.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1313818570115609642,329302409,"$700,000.00",700000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1314448061884666920,40625578,"$801,485.80",801485.8,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1314707045796033013,129174341,,,Precio nulo
+1315454645255314186,329302409,"$700,000.00",700000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1315901725585676797,164090475,,,Precio nulo
+1316111075764988337,525649226,"$9,002,500.00",9002500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1318116817887950735,373649275,,,Precio nulo
+1318508193189944229,264930667,"$806,981.49",806981.49,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1320678184591336142,56374270,"$711,312.62",711312.62,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1321939758628078958,669348474,,,Precio nulo
+1323244554309657575,267629953,"$917,736.00",917736.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1330091519578585747,80611036,,,Precio nulo
+1333632961927077717,467982391,,,Precio nulo
+1334379719627282840,531835055,"$1,200,000.00",1200000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1337890043328115054,674024263,,,Precio nulo
+1338064319234931536,576976247,,,Precio nulo
+1338520953313308614,86517793,,,Precio nulo
+1340035305661756568,464929532,"$856,000.00",856000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1340052934785504225,266432599,,,Precio nulo
+1340587898253004992,674755873,,,Precio nulo
+1341472184907096368,495065636,"$709,435.00",709435.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1342928252107335981,421419369,,,Precio nulo
+1344368153209631062,511602585,"$896,388.00",896388.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1345010740310707574,72684779,,,Precio nulo
+1348064362592159993,561517817,,,Precio nulo
+1348079528558790079,157673697,"$794,395.95",794395.95,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1351741602736880759,677594237,"$2,500,000.00",2500000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1353098658965300325,677940427,,,Precio nulo
+1353682176841378846,446350648,"$1,542,380.00",1542380.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1356849129407966194,72560636,,,Precio nulo
+1358733270082945764,678785140,,,Precio nulo
+1361813875498359792,655679254,,,Precio nulo
+1362833822657905913,542324450,,,Precio nulo
+1364060964539443452,664242679,"$830,394.00",830394.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1364100923943835131,664242679,"$774,202.00",774202.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1364480975281609109,593571139,"$1,108,232.33",1108232.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1365314099803125815,176055726,,,Precio nulo
+1369636895892888140,194541553,,,Precio nulo
+1370974709400626794,372319434,,,Precio nulo
+1370979460816010535,246767932,"$950,000.00",950000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1372030665606260977,61332800,"$728,682.03",728682.03,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1372530724943388127,155961467,"$2,923,843.00",2923843.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1372606345345661482,527677389,"$926,753.00",926753.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1375369400531666044,1492246,,,Precio nulo
+1375425541356980334,576976247,,,Precio nulo
+1376220052654042303,652368843,,,Precio nulo
+1376275503629837886,527677389,"$3,610,000.00",3610000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1376870925965104145,684277514,"$850,000.00",850000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1377164511765245031,684355633,,,Precio nulo
+1379153740842980073,575658211,,,Precio nulo
+1379159932895876277,575658211,,,Precio nulo
+1379293947496163077,579848546,,,Precio nulo
+1379299534036805717,478881976,,,Precio nulo
+1386601871810307714,372039543,,,Precio nulo
+1387291773872997968,576976247,,,Precio nulo
+1387990715894725800,23439025,,,Precio nulo
+1389785627131559546,56358026,,,Precio nulo
+1390165526285173731,687653675,"$35,000.00",35000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1390818680253946197,687829503,,,Precio nulo
+1391341909129414958,339184127,,,Precio nulo
+1392836201030006244,111420096,,,Precio nulo
+1393147083848177382,687653675,"$32,400.00",32400.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1394292032733462911,61332800,"$2,578,826.00",2578826.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1394389607182142880,598424720,"$750,000.00",750000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1394396602263067525,506420081,,,Precio nulo
+1395006037652241448,95768962,"$1,000,000.00",1000000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1395101593023265469,48769100,,,Precio nulo
+1396381295977626163,542324450,,,Precio nulo
+1398584372430353771,285169143,,,Precio nulo
+1402460252398462956,239964934,,,Precio nulo
+1403717576024956884,23609598,,,Precio nulo
+1405268783897997224,115722245,"$752,913.00",752913.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1405894568374546221,203784993,,,Precio nulo
+1407460330754466353,527677389,"$926,753.00",926753.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1408991998323764900,43550096,"$700,000.00",700000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1409084789036157549,688758934,,,Precio nulo
+1410409279787718585,499913108,,,Precio nulo
+1410923837353479430,350804750,"$775,598.00",775598.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1411339769763131440,178400183,"$902,819.04",902819.04,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1411638715633370988,250746184,"$1,069,000.00",1069000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1414861933749586897,219865835,,,Precio nulo
+1415933320440811188,425475774,,,Precio nulo
+1416183879608452157,437385768,,,Precio nulo
+1419743533429624956,506420081,,,Precio nulo
+1419802463697388319,695173716,,,Precio nulo
+1420466947340697154,517413499,"$1,082,217.67",1082217.67,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1421113909891384665,517413499,"$798,785.70",798785.7,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1421215608273569550,209968295,,,Precio nulo
+1423523789876654536,385271103,,,Precio nulo
+1424014664194667506,259648532,"$988,189.50",988189.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1424531724956448662,333755255,,,Precio nulo
+1425626497604041050,503906583,,,Precio nulo
+1425763846037587885,526368946,"$932,450.00",932450.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1426382661564318200,23439025,,,Precio nulo
+1427088455331104143,592397096,,,Precio nulo
+1430825896651108395,82398300,"$870,617.88",870617.88,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1435757392890681165,85911513,"$740,650.35",740650.35,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1437815346008906443,542324450,,,Precio nulo
+1437911376602881788,71287387,"$780,368.00",780368.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1438355434667330634,181582683,,,Precio nulo
+1439934810860720832,441600606,,,Precio nulo
+1440020568507745104,561517817,,,Precio nulo
+1441680056103417592,479935531,"$1,803,148.00",1803148.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1444331568470368931,218311230,"$12,070,000.00",12070000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1446600522699508776,268463339,,,Precio nulo
+1449536957416130015,702906903,,,Precio nulo
+1449939956036843674,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449945852104250013,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449949840559459961,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449950180144968078,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449954877452199070,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449956740256530946,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449958251283962499,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449959447427490510,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449961302789307434,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449963557764498042,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449968172957655722,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449973001370387999,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449976073972546578,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449977934036540351,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449979542223348373,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449980730594779820,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449981142262793761,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449982224687592173,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449985002980878302,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449987814044509589,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449995023027637236,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1449997200643169264,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1450000886081837615,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1450021102623805872,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1450022706550164861,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1450024461537583915,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1450034722833681031,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1450035931081515402,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1450044134284251738,700587435,"$36,324.46",36324.46,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1451613359192091184,472433521,"$1,396,997.00",1396997.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1452905536065668933,529466314,,,Precio nulo
+1453123852716467704,61332800,"$710,370.00",710370.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1457302019754936632,705088309,,,Precio nulo
+1457465357951310358,70419198,,,Precio nulo
+1457939665858089743,70419198,,,Precio nulo
+1458112767443801419,423443161,"$1,066,625.00",1066625.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1460543688466735688,506420081,,,Precio nulo
+1461094450621265341,456019055,,,Precio nulo
+1461212428990835679,61332800,"$754,083.00",754083.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1461996441838863283,58387714,,,Precio nulo
+1463146740074901597,240050644,,,Precio nulo
+1464000697046542582,703745098,,,Precio nulo
+1464076365283693790,410685224,"$756,731.00",756731.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1464173983753556311,703745098,,,Precio nulo
+1464614746547219935,703745098,,,Precio nulo
+1464878970040632714,703745098,,,Precio nulo
+1465632647571082337,703745098,,,Precio nulo
+1465638424975265760,703745098,,,Precio nulo
+1465663202433383268,703745098,,,Precio nulo
+1466157842264688826,85312299,"$750,000.00",750000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1466190116610811339,254759351,,,Precio nulo
+1466704582412769222,703745098,,,Precio nulo
+1466715657569789129,703745098,,,Precio nulo
+1466851429661928103,703745098,,,Precio nulo
+1466858220867292388,703745098,,,Precio nulo
+1466863206431114744,703745098,,,Precio nulo
+1466911432562731839,42504064,"$754,083.00",754083.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1467451627172567086,172162511,,,Precio nulo
+1473339224293537650,709611967,"$838,679.50",838679.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1475674501940821622,710260791,,,Precio nulo
+1476977613990701381,456019055,,,Precio nulo
+1479220453012697687,165625855,,,Precio nulo
+1479312964108313908,459426579,"$783,385.00",783385.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1480445335677007932,285169143,,,Precio nulo
+1480452980765484202,285169143,,,Precio nulo
+1481232593589894201,711602394,"$720,000.00",720000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1481901922725346261,383824000,,,Precio nulo
+1482654947799536228,525690230,"$867,572.00",867572.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1483499119497459481,351152554,,,Precio nulo
+1487322150050502516,598263161,,,Precio nulo
+1489260869372615860,66818901,"$736,740.50",736740.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1491390728210695842,258823880,,,Precio nulo
+1491597123381562025,240664164,,,Precio nulo
+1493041189223091130,714857138,,,Precio nulo
+1495821890848437567,544626094,,,Precio nulo
+1498709596774726030,506420081,,,Precio nulo
+1500279156060159571,443804892,,,Precio nulo
+1501059797106107267,35472704,"$1,111,110.00",1111110.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1503522137384239391,525649226,"$6,171,000.00",6171000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1503849845180440718,276153199,"$2,450,000.00",2450000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1506837507581261247,360081299,,,Precio nulo
+1508387939351284922,40625578,"$781,600.29",781600.29,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1508743959691019625,5006617,"$716,666.67",716666.67,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1508911050406481041,106559185,,,Precio nulo
+1509687533489377243,276666455,"$750,855.00",750855.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1511648987371488417,719313410,"$787,622.00",787622.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1512574731778340683,82398300,"$781,600.29",781600.29,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1513270052474910868,719710623,"$974,678.53",974678.53,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1513987253747339452,719710623,"$974,661.87",974661.87,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1513996924109833536,719710623,"$974,678.53",974678.53,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1514008770066222867,719710623,"$974,678.53",974678.53,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1514021261723496250,719710623,"$985,686.43",985686.43,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1514736823877918088,719313410,"$899,125.70",899125.7,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1516730416434890950,719710623,"$1,201,956.43",1201956.43,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1516791087447953420,469111271,,,Precio nulo
+1516907268654185489,55161059,"$706,293.15",706293.15,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1517378354260003248,527677389,"$792,936.85",792936.85,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1517738534444787902,41870330,"$1,004,050.00",1004050.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1518100641453660960,720810311,,,Precio nulo
+1518376577732365621,720886549,,,Precio nulo
+1521870345842256653,719710623,"$1,443,979.00",1443979.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1522649890859303980,94870988,"$869,058.40",869058.4,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1523444207927788140,719710623,"$1,275,415.33",1275415.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1523445623259108253,719710623,"$1,275,415.33",1275415.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1523446840244788645,719710623,"$1,275,415.33",1275415.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1523448534429093120,719710623,"$1,275,415.33",1275415.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1523449533372801115,719710623,"$1,273,748.67",1273748.67,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1526440726139109224,64091428,,,Precio nulo
+1527072983815527761,721697657,"$2,400,000.00",2400000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1528285155797062914,687653675,"$33,840.00",33840.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1528473422038474601,1209009,"$733,618.52",733618.52,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1532950480269400508,313760229,"$1,863,704.00",1863704.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1537379492329747927,72364505,"$799,960.00",799960.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1538471546204353197,443556523,"$836,381.04",836381.04,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1538695923291624168,16149461,"$733,619.00",733619.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1539218618352665458,52037639,,,Precio nulo
+1540939129960265107,726050936,,,Precio nulo
+1541550078626866437,351152554,"$1,207,500.00",1207500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1542773521060148928,726050936,,,Precio nulo
+1543150718326027013,493321464,"$981,385.00",981385.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1546032624794404120,693688789,"$900,503.00",900503.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1546376303709213501,285169143,,,Precio nulo
+1546542481965240133,71375049,"$898,618.40",898618.4,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1547432099306463146,111745990,"$31,147.65",31147.65,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1548599956988750248,92873930,,,Precio nulo
+1548610864364479414,727838430,,,Precio nulo
+1549380983675481940,160861262,"$856,752.00",856752.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1552994654237026619,59224532,"$800,000.00",800000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1553238215972262818,728917089,"$764,588.67",764588.67,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1553300455453937408,728957448,,,Precio nulo
+1554404931955990260,713319224,"$35,000.00",35000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1556170812759460575,723897622,"$939,346.50",939346.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1557517397748224183,465789396,"$1,188,000.00",1188000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1558077798424997743,713319224,"$35,000.00",35000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1558084274665458741,713319224,"$35,000.00",35000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1558164126388442931,511602585,,,Precio nulo
+1558284990139658534,593571139,"$1,108,232.33",1108232.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1558658043216583913,693688789,"$980,192.50",980192.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1558857915322233319,85752418,"$1,414,167.00",1414167.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1560079709765629759,445343335,,,Precio nulo
+1560952626128164380,169688505,"$1,276,184.03",1276184.03,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1562499307786970647,463118437,,,Precio nulo
+1562524925299752395,731038463,"$778,050.00",778050.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1563235452160943252,256107765,"$712,982.20",712982.2,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1564579408604645135,650268814,"$755,000.00",755000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1566717257190410584,558010650,,,Precio nulo
+1569155376723632637,267629953,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1569220365341328206,267629953,"$1,080,000.00",1080000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1569257042179840940,267629953,"$950,000.00",950000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1570519878583019093,433672182,"$709,119.50",709119.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1573425485353602570,173502141,,,Precio nulo
+1574089439112166620,681388706,,,Precio nulo
+1574976599367229156,459426579,"$2,375,000.00",2375000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1575371954895669721,518542919,,,Precio nulo
+1575568129319017617,505360516,"$696,640.80",696640.8,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1578275494579620799,267629953,"$2,686,600.00",2686600.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1579299667716617486,113196901,,,Precio nulo
+1582627684648312889,56093543,,,Precio nulo
+1583547417036099119,735738844,,,Precio nulo
+1584952800378778751,256107765,"$709,435.00",709435.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1590701019200232277,527677389,"$2,313,516.50",2313516.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1590936371568528383,82398300,"$767,599.50",767599.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1591452309327401697,26673809,"$836,845.67",836845.67,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1592220601691116542,1710968,"$700,775.96",700775.96,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1592256913465009462,580917255,,,Precio nulo
+1594246209619362590,231107833,,,Precio nulo
+1594386840029512590,527677389,"$2,293,600.00",2293600.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1594921227247059828,19625812,"$28,527.36",28527.36,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1596068818422220737,321022414,"$701,563.00",701563.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1596659005330966077,58534012,,,Precio nulo
+1598632385216944779,524455481,"$1,367,100.00",1367100.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1599370967885908535,240050644,"$720,000.00",720000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1600049060828251806,363690449,,,Precio nulo
+1600768285595194599,527677389,"$1,279,032.00",1279032.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1603648775694964165,527677389,"$809,520.80",809520.8,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1606055966678956626,208298311,,,Precio nulo
+1607505369321561932,321022414,"$793,500.00",793500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1608076089146770629,20324146,"$1,507,380.00",1507380.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1608968339880663116,363690449,,,Precio nulo
+1609527521797111910,169321180,,,Precio nulo
+1609653818161943705,743227921,"$30,150.96",30150.96,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1609821484236198175,2240084,"$33,359.44",33359.44,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1609918272339898818,743227921,"$35,344.80",35344.8,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1609947743711158544,743227921,"$34,166.56",34166.56,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1609988944333589151,743227921,"$35,450.82",35450.82,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1610146803593465127,410685224,"$1,399,953.00",1399953.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1610417670163906725,743227921,"$33,738.54",33738.54,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1610433024083452173,743227921,"$35,285.76",35285.76,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1611173571381258834,53462098,"$30,000.00",30000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1611479682667634266,743227921,"$34,996.65",34996.65,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1611505454776733082,743227921,"$33,444.18",33444.18,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1611507082391133866,743227921,"$29,776.38",29776.38,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1611950163208569785,222594863,"$719,730.00",719730.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1612432347212120106,743943731,,,Precio nulo
+1614591096182648515,527139706,"$31,132.00",31132.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1614743813876497361,85911513,"$788,800.00",788800.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1614851478194197710,259648532,"$798,500.00",798500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1618467384928778126,570068681,,,Precio nulo
+1619532666326146527,729526810,"$840,750.00",840750.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1620504865022072849,16148871,,,Precio nulo
+1621691843086851848,746319303,"$1,135,096.00",1135096.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1623221080513004351,35472704,"$1,217,777.40",1217777.4,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1624666319458643239,744384534,"$3,840,000.00",3840000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1624839786557808197,16148871,,,Precio nulo
+1625557975532823153,441600328,"$16,800,000.00",16800000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1625582103042762890,85752418,"$949,022.00",949022.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1627241785417575879,255556608,,,Precio nulo
+1628513531785668740,564530750,,,Precio nulo
+1628649564793194660,748151135,,,Precio nulo
+1634269582734818954,525649226,"$1,532,380.00",1532380.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1640131597166676602,276153199,"$2,375,000.00",2375000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1640685079486488254,527677389,"$788,370.40",788370.4,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1642051068195589725,229837741,,,Precio nulo
+1643692564688431676,172162511,,,Precio nulo
+1643936858734858123,172162511,,,Precio nulo
+1644266609446463528,172162511,"$970,000.00",970000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1645677828404604234,527677389,"$864,407.70",864407.7,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1645854373652375624,751847679,,,Precio nulo
+1645914766665665278,738829189,"$1,015,156.50",1015156.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1646920617466120936,193892329,"$2,223,223.00",2223223.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1647857662817650052,9250635,"$1,189,835.58",1189835.58,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1648035833108157723,267629953,"$2,660,000.00",2660000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1648073555977075805,267629953,"$2,660,000.00",2660000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1648520578525937592,527677389,"$1,649,200.00",1649200.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1650368157628730652,579848546,,,Precio nulo
+1650444648532253426,749835037,"$35,200.00",35200.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1650737213407691209,527677389,"$926,753.00",926753.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1651229714273251674,489068318,"$1,000,000.00",1000000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1651691408258439130,743227921,"$34,457.64",34457.64,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1651793230224607808,527677389,"$921,607.00",921607.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1653180577990481479,544626094,,,Precio nulo
+1654345285478089501,91768,"$893,149.59",893149.59,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1654679709108113306,749835037,"$36,000.00",36000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1655967748119102587,710889339,,,Precio nulo
+1657486994923840089,755504175,,,Precio nulo
+1658883649061192391,459426579,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1658898946807693252,459426579,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1658913700880318362,459426579,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1658923725315201020,459426579,"$1,900,000.00",1900000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1660576717759473662,363690449,,,Precio nulo
+1660932848560916914,527677389,"$913,632.00",913632.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1661055196111543820,125363675,"$978,429.60",978429.6,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1661621238671931578,1661621032851864913,,,Precio nulo
+1662012947443835096,434990778,"$849,660.50",849660.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1662325759180819327,69205040,"$839,200.00",839200.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1663333195512821368,61332800,"$2,478,826.00",2478826.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1663854267542109682,564708589,"$770,230.40",770230.4,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1664132647920416822,351152554,,,Precio nulo
+1665677234101689002,749835037,"$32,862.00",32862.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1669072235197155123,16148871,,,Precio nulo
+1670243053367980174,446350648,"$9,002,500.00",9002500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1670246379312607067,446350648,"$9,002,500.00",9002500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1674016743200601656,348918761,,,Precio nulo
+1674705366354316341,96879622,"$33,208.00",33208.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1675395958553809637,23185058,,,Precio nulo
+1676274871186037793,724076865,"$992,026.00",992026.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1676848664567929131,58065135,"$2,299,352.00",2299352.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1678980974380776622,540759128,,,Precio nulo
+1679928475831242485,16475758,,,Precio nulo
+1681937838357840539,389541562,"$34,999.20",34999.2,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1685709784929455094,259648532,"$3,311,674.50",3311674.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1686114952688723400,45465127,,,Precio nulo
+1686363778238678350,42504064,"$754,083.00",754083.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1688474434251817684,74856199,,,Precio nulo
+1688727538100326742,9835976,,,Precio nulo
+1689009894676814005,561517817,,,Precio nulo
+1689222324330741356,234436970,"$867,736.00",867736.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1690063757372721786,524528542,,,Precio nulo
+1691381441738902416,38006173,,,Precio nulo
+1698117776731963359,131898467,"$1,120,000.00",1120000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1699543783579822308,178022555,,,Precio nulo
+1700162691956896310,115670083,,,Precio nulo
+1700735212156622174,35472704,"$882,222.00",882222.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1703894018039670472,42504064,"$3,177,358.00",3177358.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1705221631509104691,17330964,,,Precio nulo
+1705862668125940081,663643825,"$1,262,000.00",1262000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1707540607413640893,8794884,,,Precio nulo
+1709429152040037486,346997450,"$886,676.00",886676.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1709794826559978794,1709793796040162917,,,Precio nulo
+1710307149684873135,129002111,"$28,277.12",28277.12,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1711286937307396760,561517817,,,Precio nulo
+1718319925870972338,321022414,"$793,500.00",793500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1719973575629802803,561517817,,,Precio nulo
+1720462388673558715,17330964,,,Precio nulo
+1720581149085788074,366116104,,,Precio nulo
+1725276973039467553,4434912,"$1,960,000.00",1960000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1725520133523859607,1724964122646884040,"$775,200.00",775200.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1726356306061362358,34230774,,,Precio nulo
+1727049701944064440,564157385,"$1,620,050.00",1620050.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1728692011076280385,240050644,"$8,997,500.00",8997500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1729211809473675791,425003195,"$827,703.50",827703.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1729314733321733885,1721240829349764762,,,Precio nulo
+1729318768293241442,1721240829349764762,,,Precio nulo
+1730781899476422753,1730781517594011899,"$232,260,501.00",232260501.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1730827013181593009,444019031,,,Precio nulo
+1734993238658034789,626838,"$1,155,200.00",1155200.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1736276137038870993,456035540,"$1,520,000.00",1520000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1736497675461121055,738829189,,,Precio nulo
+1736503227743354597,738829189,"$1,104,673.40",1104673.4,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1736574029241983278,402299172,,,Precio nulo
+1737932753397286829,525649226,"$9,002,500.00",9002500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1738067396526601554,525649226,"$810,000.00",810000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1739939782395890928,316435624,"$862,500.00",862500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1740955924902556177,1721240829349764762,,,Precio nulo
+1740967980059784417,1721240829349764762,,,Precio nulo
+1742952161268219361,32795712,,,Precio nulo
+1743244352478249535,661391034,,,Precio nulo
+1743927644734329236,171339787,,,Precio nulo
+1744417596233972394,1911347,"$36,000.00",36000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1744644075831100641,489068318,"$2,100,000.00",2100000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1745255362981465344,724076865,"$1,020,366.00",1020366.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1746209096825507604,499913108,"$919,364.50",919364.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1747517820094347460,743227921,"$33,950.00",33950.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1750079969682320094,17330964,"$936,534.33",936534.33,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1751646173829350852,564157385,"$3,185,000.00",3185000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1752188229049428721,351152554,"$1,599,000.00",1599000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1752363798308655716,459426579,"$813,748.00",813748.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1752445993659682433,121732260,"$850,000.00",850000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1752521433495319094,459426579,"$2,450,000.00",2450000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1755413832138786050,276153199,"$2,000,000.00",2000000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1755471816807683753,459426579,"$2,450,000.00",2450000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1756137383030639136,459426579,"$2,000,000.00",2000000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1756159340292491451,276153199,"$3,038,000.00",3038000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1756235281885936426,710845772,"$2,350,000.00",2350000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1758113213124255828,446350648,"$9,002,500.00",9002500.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1759644257307596346,1759643945469100432,"$1,850,000.00",1850000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1759688771943514802,459426579,"$2,450,000.00",2450000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1761133384088818497,16148871,"$810,102.50",810102.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1761167730041642158,242802013,"$2,120,000.00",2120000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1761800610029685297,49455668,"$1,014,664.00",1014664.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1764708556810896827,381230660,,,Precio nulo
+1764750093646344908,103756428,,,Precio nulo
+1766709479759958509,24945688,"$700,000.00",700000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1767698957563402593,1759643945469100432,"$2,000,000.00",2000000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1769643785520367328,729089690,"$1,224,000.00",1224000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+1770445651787741989,484214586,"$36,000.00",36000.0,"Precio atípico (1,5 x RIQ sobre log del precio)"
+152126,732125,,,Precio nulo
+654822,3290627,"$936,534.50",936534.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+700168,3591823,"$35,543.50",35543.5,"Precio atípico (1,5 x RIQ sobre log del precio)"
+863460,4418321,,,Precio nulo
+1534828,4291660,,,Precio nulo
+1615237,8597833,,,Precio nulo
+1839561,8595303,,,Precio nulo
+2407184,7625774,,,Precio nulo
+2441651,9168868,,,Precio nulo

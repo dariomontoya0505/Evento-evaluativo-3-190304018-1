@@ -1,0 +1,33 @@
+﻿paso,detalle,registros_afectados
+carga,registros y columnas originales,19505 x 90
+seleccion,columnas 100 % vacías descartadas,14
+seleccion,variables conservadas de las 90 originales,35
+calidad,id duplicados,0
+calidad,precio con formato no válido,0
+calidad,"precio nulo (se conservan, marcados, fuera del análisis)",711
+calidad,precio no positivo,0
+calidad,"outliers de precio (COP 36,352 a 693,268)",796
+calidad,anuncios incluidos en el análisis,17998
+transformacion,tipos de alojamiento sin traducción,0
+calidad,reseñas por mes nulas con historial de reseñas (sin imputar),0
+transformacion,"anuncios sin calificación (se dejan nulos, no 0)",4089
+calidad,capacidad nula o no positiva (sin precio por huésped),0
+transformacion,máximo observado de ocupación estimada (días),255.0
+transformacion,"cortes de segmento de precio (COP, cuartiles)","110,000 | 160,000 | 221,286"
+calidad,anfitriones con valores inconsistentes en superhost,0
+calidad,anfitriones con valores inconsistentes en identidad_verificada,0
+calidad,anfitriones con valores inconsistentes en hosts_time_as_host_years,0
+calidad,anfitriones con valores inconsistentes en calculated_host_listings_count,0
+calidad,anfitriones con valores inconsistentes en calculated_host_listings_count_entire_homes,0
+calidad,anfitriones con valores inconsistentes en calculated_host_listings_count_private_rooms,0
+validacion,integridad referencial y unicidad de id_anuncio,OK
+salida,fact_anuncios.csv (filas x columnas),19505 x 43
+salida,dim_localidad.csv (filas x columnas),20 x 7
+salida,dim_tipo_alojamiento.csv (filas x columnas),4 x 2
+salida,dim_anfitrion.csv (filas x columnas),8497 x 8
+salida,airbnb_bogota_analitico.csv (filas x columnas),19505 x 48
+salida,anfitriones_resumen.csv (filas x columnas),7795 x 9
+salida,muestra_h1_localidad.csv (filas x columnas),17945 x 5
+salida,muestra_h2_tipo_alojamiento.csv (filas x columnas),17971 x 5
+salida,anuncios_excluidos.csv (filas x columnas),1507 x 5
+salida,calidad_variables.csv (filas x columnas),90 x 7

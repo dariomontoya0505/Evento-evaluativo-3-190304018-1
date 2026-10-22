@@ -1,0 +1,10 @@
+﻿hipotesis,prueba,n,estadistico,p_bruto,p_decision,ajuste,medida_efecto,efecto,decision,p_presentacion
+H1,Kruskal-Wallis,17945,2304.0619701984388,0.0,0.0,Sin ajuste global,eta_H2,0.12767371131677388,Rechazar H0,"< 0,001"
+H2,Kruskal-Wallis,17971,4159.822714063925,0.0,0.0,Sin ajuste global,eta_H2,0.23140153128138494,Rechazar H0,"< 0,001"
+H2 completa vs privada,Mann-Whitney,17894,50270100.0,0.0,0.0,Comparación prevista,delta_Cliff,0.6226420575589728,Rechazar H0,"< 0,001"
+H3,Spearman,17998,0.4803502477530455,0.0,0.0,Sin ajuste global,rho,0.4803502477530455,Rechazar H0,"< 0,001"
+H4,Spearman,14549,0.0462565962239505,2.378454325251829e-08,2.378454325251829e-08,Sin ajuste global,rho,0.0462565962239505,Rechazar H0,"< 0,001"
+H5 precio_mediano,Mann-Whitney,7795,6921843.5,1.454260717245983e-07,1.454260717245983e-07,Holm en 4 indicadores,delta_Cliff,0.07468474864896724,Rechazar H0,"< 0,001"
+H5 ocupacion_media_dias,Mann-Whitney,7795,7630576.0,2.484011073534398e-40,7.452033220603193e-40,Holm en 4 indicadores,delta_Cliff,0.18472248767352828,Rechazar H0,"< 0,001"
+H5 resenas_12m_media,Mann-Whitney,7795,7811660.0,5.672177724027653e-53,2.2688710896110612e-52,Holm en 4 indicadores,delta_Cliff,0.21283757190280173,Rechazar H0,"< 0,001"
+H5 calificacion_mediana,Mann-Whitney,6171,3495687.5,3.732472714627221e-39,7.464945429254441e-39,Holm en 4 indicadores,delta_Cliff,-0.1993986020744667,Rechazar H0,"< 0,001"

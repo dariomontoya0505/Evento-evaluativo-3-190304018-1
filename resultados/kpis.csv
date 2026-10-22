@@ -1,0 +1,7 @@
+﻿id,indicador,valor,unidad,n_validos,hipotesis,formula_tableau
+K1,Precio mediano por noche,160000.0,COP,17998,H1 y H2,MEDIAN([precio_cop])
+K2,Precio mediano por huésped,60000.0,COP,17998,H3,MEDIAN([precio_por_huesped])
+K3,Calificación promedio,4.704137054093065,puntos sobre 5,14549,H4 y H5,AVG([calificacion])
+K4,Anuncios con reseñas en 12 meses,0.6717968663184798,fracción,17998,H5,"SUM(IIF([resenas_12m]>0,1,0))/COUNT([resenas_12m])"
+K5,Ocupación estimada mediana,0.0657534246575342,fracción,17998,H5,MEDIAN([ocupacion_estimada_pct])
+K6,Anfitriones con varios anuncios,0.3050673508659397,fracción,7795,H5,COUNTD(IF [n_anuncios]>=2 THEN [id_host] END)/COUNTD([id_host])
