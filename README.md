@@ -581,4 +581,4 @@ Esto permite verificar las transformaciones realizadas y reproducir los principa
 
 Este repositorio corresponde al desarrollo académico del **Evento Evaluativo 3 de la asignatura Análisis de Datos, semestre 2026-2**, enfocado en el proyecto de **Airbnb** asignado al Equipo 10.
 
-Los resultados deben interpretarse exclusivamente dentro del contexto, población, variables y metodología documentados en el proyecto.
+Enlace del Video:
